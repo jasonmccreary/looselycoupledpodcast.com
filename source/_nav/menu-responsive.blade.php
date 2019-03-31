@@ -7,12 +7,5 @@
                 class="nav-menu__item hover:text-blue-500 {{ $page->isActive('/blog') ? 'active text-blue-500' : '' }}"
             >Blog</a>
         </li>
-        <li class="pl-4">
-            <a
-                title="{{ $page->siteName }} Contact"
-                href="/contact"
-                class="nav-menu__item hover:text-blue-500 {{ $page->isActive('/contact') ? 'active text-blue-500' : '' }}"
-            >Contact</a>
-        </li>
     </ul>
 </nav>
