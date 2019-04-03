@@ -37,10 +37,6 @@
                         <h1 class="text-lg md:text-2xl text-blue-900 font-semibold hover:text-blue-600 my-0">{{ $page->siteName }}</h1>
                     </a>
                 </div>
-
-                <div id="vue-search" class="flex flex-1 justify-end items-center">
-                    <search></search>
-                </div>
             </div>
         </header>
 
