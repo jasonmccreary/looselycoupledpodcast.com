@@ -2,6 +2,7 @@ module.exports = {
   theme: {
   },
   variants: {
+    boxShadow: ['group-hover'],
     width: ['responsive', 'focus'],
   },
   plugins: [
