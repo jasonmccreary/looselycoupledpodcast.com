@@ -36,6 +36,7 @@
                 <p class="mt-4 max-w-sm mx-auto sm:mt-8 text-gray-600">
                     {{ $page->siteDescription }}
                 </p>
+                <hr class="border-b my-6">
             </header>
 
             <main role="main">

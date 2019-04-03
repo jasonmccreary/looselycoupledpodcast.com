@@ -13,7 +13,6 @@ pagination:
 @endpush
 
 @section('body')
-    <hr class="border-b my-6">
 
     @foreach ($pagination->items as $post)
         @include('_components.post-preview-inline')
