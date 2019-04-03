@@ -13,6 +13,13 @@ pagination:
 @endpush
 
 @section('body')
+    @if($post = $pagination->items->shift())
+        @include('_components.post-full-inline')
+
+        @if ($post != $pagination->items->last())
+            <hr class="border-b my-6">
+        @endif
+    @endif
 
     @foreach ($pagination->items as $post)
         @include('_components.post-preview-inline')
