@@ -12,7 +12,7 @@ return [
         'posts' => [
             'author' => 'JMac and Jess', // Default author, if not provided in a post
             'sort' => '-date',
-            'path' => 'blog/{filename}',
+            'path' => '/{filename}',
         ],
     ],
 
