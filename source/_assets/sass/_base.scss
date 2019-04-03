@@ -86,8 +86,8 @@ h6 {
 }
 
 hr {
-    @apply .border-b;
-    @apply .border-red-200;
+    @apply .border-b-2;
+    @apply .border-gray-300;
     @apply .my-12;
     @apply .rounded-full;
 }
@@ -116,8 +116,8 @@ ul {
 p {
     @apply .my-3;
 
-    @screen md {
-        @apply .my-6;
+    @screen sm {
+        @apply .my-4;
     }
 }
 
