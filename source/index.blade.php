@@ -13,8 +13,6 @@ pagination:
 @endpush
 
 @section('body')
-    <h1>Blog</h1>
-
     <hr class="border-b my-6">
 
     @foreach ($pagination->items as $post)
