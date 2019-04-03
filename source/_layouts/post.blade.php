@@ -14,7 +14,7 @@
 
     <h1 class="leading-none mb-2">{{ $page->title }}</h1>
 
-    <p class="text-gray-700 text-xl md:mt-0">{{ $page->author }}  •  {{ date('F j, Y', $page->date) }}</p>
+    <p class="text-gray-700 text-xl md:mt-0">{{ date('F j, Y', $page->date) }}</p>
 
     <div class="border-b border-red-200 mb-10 pb-4" v-pre>
         @yield('content')
