@@ -57,7 +57,7 @@
                     </a>
                 </div>
 
-                <ul class="flex flex-col md:flex-row justify-center mt-10">
+                <ul class="list-none flex flex-col md:flex-row justify-center mt-10">
                     <li class="md:mr-2">
                         &copy; The Loosely Coupled Podcast {{ date('Y') }}.
                     </li>

@@ -92,7 +92,16 @@ hr {
     @apply .rounded-full;
 }
 
+ul {
+    @apply list-disc;
+}
+
+ol {
+    @apply list-decimal;
+}
+
 li {
+    @apply pl-2;
     ul,
     ol {
         @apply .my-0;
@@ -101,7 +110,7 @@ li {
 
 ol,
 ul {
-    @apply .my-4;
+    @apply .my-4 .pl-4;
 }
 
 p {
