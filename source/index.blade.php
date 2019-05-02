@@ -16,14 +16,13 @@ pagination:
     @if($post = $pagination->items->shift())
         @include('_components.post-full-inline')
 
-        @if ($post != $pagination->items->last())
-            <hr>
-        @endif
+        <hr>
     @endif
 
     @foreach ($pagination->items as $post)
         @include('_components.post-preview-inline')
 
+        <hr>
     @endforeach
 
     @if ($pagination->pages->count() > 1)
