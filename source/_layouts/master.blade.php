@@ -27,16 +27,16 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
 
-    <body class="border-t-4 border-red-500 bg-gray-100 text-gray-800 leading-normal font-sans">
+    <body class="border-t-8 border-orange-500 bg-gray-100 text-gray-800 leading-normal font-sans">
         <div class="flex flex-col justify-between min-h-screen max-w-xl mx-auto px-4">
             <header class="mt-8 mb-2 sm:mt-16 sm:mb-4 text-center" role="banner">
                 <a href="/" title="{{ $page->siteName }} home" class="flex-shrink-0">
-                    <img class="inline-block h-20 sm:h-32" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" />
+                    <img class="inline-block h-32 sm:h-48" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" />
                 </a>
-                <p class="mt-4 max-w-sm mx-auto sm:mt-8 text-gray-600">
+                <p class="mt-4 max-w-md mx-auto sm:mt-8 text-base sm:text-xl text-gray-700 italic">
                     {{ $page->siteDescription }}
                 </p>
-                <hr class="border-b my-6">
+                <hr>
             </header>
 
             <main role="main">
@@ -58,16 +58,14 @@
                     </a>
                 </div>
 
-                <ul class="list-none flex flex-col md:flex-row justify-center mt-10">
-                    <li class="md:mr-2">
-                        &copy; The Loosely Coupled Podcast {{ date('Y') }}.
-                    </li>
+                <div class="mt-10 text-gray-600">
+                    &copy; The Loosely Coupled Podcast {{ date('Y') }}.
+                </div>
 
-                    <li>
-                        Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a>
-                        and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
-                    </li>
-                </ul>
+                <div class="mb-6 text-gray-600">
+                    Built with <a href="http://jigsaw.tighten.co" title="Jigsaw by Tighten">Jigsaw</a>
+                    and <a href="https://tailwindcss.com" title="Tailwind CSS, a utility-first CSS framework">Tailwind CSS</a>.
+                </div>
             </footer>
         </div>
 

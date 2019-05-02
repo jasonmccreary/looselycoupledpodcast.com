@@ -1,13 +1,13 @@
 <div class="flex flex-col mb-4">
-    <p class="text-gray-700 font-medium my-2 text-sm tracking-wider uppercase">
+    <p class="text-gray-600 font-medium my-2 text-xs tracking-widest uppercase">
         {{ $post->getDate()->format('F j, Y') }}
     </p>
 
-    <h2 class="text-3xl sm:text-4xl mt-0">
+    <h2 class="text-2xl sm:text-3xl mt-0">
         <a
             href="{{ $post->getUrl() }}"
             title="Read more - {{ $post->title }}"
-            class="text-black font-extrabold"
+            class="text-gray-800"
         >{{ $post->title }}</a>
     </h2>
 

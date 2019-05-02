@@ -1,15 +1,15 @@
 a {
     @apply .font-semibold;
     @apply .no-underline;
-    @apply .text-red-600;
+    @apply .text-orange-500;
 
     &:hover {
-        @apply .text-red-800;
+        @apply .text-orange-800;
     }
 }
 
 blockquote {
-    @apply .border-red-400;
+    @apply .border-orange-400;
     @apply .border-l-4;
     @apply .font-normal;
     @apply .italic;
@@ -110,10 +110,10 @@ h6 {
 }
 
 hr {
-    @apply .border-b-2;
-    @apply .border-gray-300;
+    @apply .border-b-8;
+    @apply .border-orange-500;
     @apply .my-12;
-    @apply .rounded-full;
+    max-width: 10rem;
 }
 
 ul {
@@ -163,6 +163,6 @@ pre {
 }
 
 ::selection {
-    @apply .bg-red-500;
+    @apply .bg-orange-500;
     @apply .text-white;
 }

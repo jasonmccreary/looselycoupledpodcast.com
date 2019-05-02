@@ -17,16 +17,13 @@ pagination:
         @include('_components.post-full-inline')
 
         @if ($post != $pagination->items->last())
-            <hr class="border-b my-6">
+            <hr>
         @endif
     @endif
 
     @foreach ($pagination->items as $post)
         @include('_components.post-preview-inline')
 
-        @if ($post != $pagination->items->last())
-            <hr class="border-b my-6">
-        @endif
     @endforeach
 
     @if ($pagination->pages->count() > 1)
@@ -43,7 +40,7 @@ pagination:
                 <a
                     href="{{ $path }}"
                     title="Go to Page {{ $pageNumber }}"
-                    class="bg-gray-200 hover:bg-gray-400 text-red-800 rounded mr-3 px-5 py-3 {{ $pagination->currentPage == $pageNumber ? 'text-red-600' : '' }}"
+                    class="bg-gray-200 hover:bg-gray-400 text-orange-800 rounded mr-3 px-5 py-3 {{ $pagination->currentPage == $pageNumber ? 'text-orange-600' : '' }}"
                 >{{ $pageNumber }}</a>
             @endforeach
 

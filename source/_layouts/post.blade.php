@@ -14,7 +14,7 @@
 
     @include('_components.post-full-inline', ['post' => $page])
 
-    <hr class="border-b my-6">
+    <hr>
 
     <nav class="flex justify-between text-sm md:text-base">
         <div>
