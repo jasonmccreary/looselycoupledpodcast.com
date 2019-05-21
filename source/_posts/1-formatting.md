@@ -11,4 +11,4 @@ In this first episode, Jess and JMac dive in head first by discussing why format
 ### Show Notes
 - [Tailwind Color Picker by Jess](https://tailwind-color-picker.jessarcher.com/)
 - Kevlin Henney's [Seven Ineffective Coding Habits of Many Programmers](https://www.infoq.com/presentations/7-ineffective-coding-habits)
-- [Squint Test @ 5:10 - RailsConf 2014 - All the little things by Santi Metz](https://youtu.be/8bZh5LMaSmE?t=310)
+- [Squint Test @ 5:10 - RailsConf 2014 - All the little things by Sandi Metz](https://youtu.be/8bZh5LMaSmE?t=310)
