@@ -15,13 +15,11 @@ pagination:
 @section('body')
     @if($post = $pagination->items->shift())
         @include('_components.post-full-inline')
-
         <hr>
     @endif
 
     @foreach ($pagination->items as $post)
         @include('_components.post-preview-inline')
-
         <hr>
     @endforeach
 

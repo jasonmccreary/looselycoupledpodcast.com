@@ -1,4 +1,4 @@
-<div class="flex flex-col mb-4">
+<article class="flex flex-col mb-4">
     <p class="text-gray-600 font-medium my-2 text-xs tracking-widest uppercase">
         {{ $post->getDate()->format('F j, Y') }}
     </p>
@@ -12,4 +12,4 @@
     </h2>
 
     {!! $post->getContent() !!}
-</div>
+</article>
