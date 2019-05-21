@@ -6,10 +6,16 @@
         <meta http-equiv="x-ua-compatible" content="ie=edge">
         <meta name="description" content="{{ $page->meta_description ?? $page->siteDescription }}">
 
-        <meta property="og:title" content="{{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}"/>
+        <meta property="og:title" content="{{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}" />
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="{{ $page->getUrl() }}"/>
-        <meta property="og:description" content="{{ $page->siteDescription }}" />
+        <meta property="og:url" content="{{ $page->getUrl() }}" />
+        <meta property="og:description" content="{{ $page->description ?? $page->siteDescription }}" />
+        <meta property="og:image" content="https://looselycoupledpodcast.com/img/logo-square.png" />
+
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content="{{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}" />
+        <meta name="twitter:description" content="{{ $page->description ?? $page->siteDescription }}" />
+        <meta name="twitter:image" content="https://looselycoupledpodcast.com/img/logo-square.png" />
 
         <title>{{ $page->siteName }}{{ $page->title ? ' | ' . $page->title : '' }}</title>
 
