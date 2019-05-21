@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 title: Episode 0 - Bootstrap
-date: 2019-05-21
+date: 2019-05-21 12:00:00
 description: In the bootstrap episode, JMac and Jess talk about how they met and what this project is all about.
 ---
 

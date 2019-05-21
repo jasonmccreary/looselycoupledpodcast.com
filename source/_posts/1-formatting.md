@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 title: Episode 1 - Formatting
-date: 2019-05-21
+date: 2019-05-21 13:00:00
 description: In this first episode, Jess and JMac dive in head first with why formatting actually does matter when writing code.
 ---
 
