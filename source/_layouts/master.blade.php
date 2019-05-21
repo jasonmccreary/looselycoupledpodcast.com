@@ -10,12 +10,12 @@
         <meta property="og:type" content="website" />
         <meta property="og:url" content="{{ $page->getUrl() }}" />
         <meta property="og:description" content="{{ $page->description ?? $page->siteDescription }}" />
-        <meta property="og:image" content="https://looselycoupledpodcast.com/img/logo-square.png" />
+        <meta property="og:image" content="https://looselycoupledpodcast.com/assets/img/logo-square.png" />
 
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content="{{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}" />
         <meta name="twitter:description" content="{{ $page->description ?? $page->siteDescription }}" />
-        <meta name="twitter:image" content="https://looselycoupledpodcast.com/img/logo-square.png" />
+        <meta name="twitter:image" content="https://looselycoupledpodcast.com/assets/img/logo-square.png" />
 
         <title>{{ $page->siteName }}{{ $page->title ? ' | ' . $page->title : '' }}</title>
 
