@@ -14,4 +14,4 @@ In this _bootstrap_ episode, JMac and Jess talk about how they met and the drivi
 - [Jess Archer](https://twitter.com/jessarchercodes)
 - [BaseCode Field Guide](https://basecodefieldguide.com)
 - [WTFs per minute](https://www.osnews.com/story/19266/wtfsm/)
-- [Implementation Patterns by Kent Beck](https://www.goodreads.com/book/show/781559.Implementation_Patterns)
+- [Implementation Patterns](https://www.goodreads.com/book/show/781559.Implementation_Patterns) by Kent Beck
