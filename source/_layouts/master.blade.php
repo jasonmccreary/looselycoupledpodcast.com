@@ -44,7 +44,7 @@
         <div class="flex flex-col justify-between min-h-screen max-w-xl mx-auto px-4">
             <header class="mt-8 mb-2 sm:mt-16 sm:mb-4 text-center" role="banner">
                 <a href="/" title="{{ $page->siteName }} home" class="flex-shrink-0">
-                    <img class="inline-block h-32 sm:h-48" src="/assets/img/logo.svg" alt="{{ $page->siteName }} logo" />
+                    <img class="inline-block h-32 sm:h-64 border" src="/assets/img/logo.png" alt="{{ $page->siteName }} logo" />
                 </a>
                 <p class="mt-4 max-w-md mx-auto sm:mt-8 text-base sm:text-xl text-gray-700 italic">
                     {{ $page->siteDescription }}
@@ -72,7 +72,7 @@
                 </div>
 
                 <div class="mt-10 text-gray-600">
-                    &copy; The Loosely Coupled Podcast {{ date('Y') }}.
+                    &copy; Copyright {{ date('Y') }}.
                 </div>
 
                 <div class="mb-6 text-gray-600">

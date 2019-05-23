@@ -3,8 +3,8 @@
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'The Loosely Coupled Podcast',
-    'siteDescription' => 'A podcast of loosely coupled development related topics hosted from opposite sides of the planet.',
+    'siteName' => 'The BaseCode Podcast',
+    'siteDescription' => 'A podcast of development related topics hosted from opposite sides of the planet.',
     'siteAuthor' => 'JMac and Jess',
 
     // collections
