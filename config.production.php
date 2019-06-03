@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://looselycoupledpodcast.com',
+    'baseUrl' => 'https://basecodefieldguide.com/podcast',
     'production' => true,
 ];

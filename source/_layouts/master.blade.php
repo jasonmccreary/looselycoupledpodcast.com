@@ -10,12 +10,12 @@
         <meta property="og:type" content="website" />
         <meta property="og:url" content="{{ $page->getUrl() }}" />
         <meta property="og:description" content="{{ $page->description ?? $page->siteDescription }}" />
-        <meta property="og:image" content="https://looselycoupledpodcast.com/assets/img/logo-square.png" />
+        <meta property="og:image" content="{{ $page->url('assets/img/logo-square.png') }}" />
 
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content="{{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}" />
         <meta name="twitter:description" content="{{ $page->description ?? $page->siteDescription }}" />
-        <meta name="twitter:image" content="https://looselycoupledpodcast.com/assets/img/logo-square.png" />
+        <meta name="twitter:image" content="{{ $page->url('assets/img/logo-square.png') }}" />
 
         <title>{{ $page->siteName }}{{ $page->title ? ' | ' . $page->title : '' }}</title>
 
@@ -37,14 +37,14 @@
         @endif
 
         <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,700,700i,800,800i" rel="stylesheet">
-        <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
+        <link rel="stylesheet" href="{{ $page->url(mix('css/main.css', 'assets/build')) }}">
     </head>
 
     <body class="border-t-8 border-orange-500 bg-gray-100 text-gray-800 leading-normal font-sans">
         <div class="flex flex-col justify-between min-h-screen max-w-xl mx-auto px-4">
             <header class="mt-8 mb-2 sm:mt-16 sm:mb-4 text-center" role="banner">
                 <a href="/" title="{{ $page->siteName }} home" class="flex-shrink-0">
-                    <img class="inline-block h-32 sm:h-64 border" src="/assets/img/logo.png" alt="{{ $page->siteName }} logo" />
+                    <img class="inline-block h-32 sm:h-64 border" src="{{ $page->url('assets/img/logo.png') }}" alt="{{ $page->siteName }} logo" />
                 </a>
                 <p class="mt-4 max-w-md mx-auto sm:mt-8 text-base sm:text-xl text-gray-700 italic">
                     {{ $page->siteDescription }}
@@ -61,12 +61,12 @@
                     <div class="uppercase mb-4 text-xs text-gray-600 tracking-wider">Hosted by</div>
 
                     <a href="https://twitter.com/gonedark" class="group inline-block mx-1 sm:mx-2 text-base text-gray-700 hover:text-gray-800">
-                        <img class="inline-block h-20 w-20 sm:h-24 sm:w-24 mb-2 border-2 border-white rounded-full shadow group-hover:shadow-md" src="/assets/img/jmac.jpg" />
+                        <img class="inline-block h-20 w-20 sm:h-24 sm:w-24 mb-2 border-2 border-white rounded-full shadow group-hover:shadow-md" src="{{ $page->url('assets/img/jmac.jpg') }}" />
                         <div>JMac</div>
                     </a>
 
                     <a href="https://twitter.com/jessarchercodes" class="group inline-block mx-1 sm:mx-2 text-base text-gray-700 hover:text-gray-800">
-                        <img class="inline-block h-20 w-20 sm:h-24 sm:w-24 mb-2 border-2 border-white rounded-full shadow group-hover:shadow-md" src="/assets/img/jess.jpg" />
+                        <img class="inline-block h-20 w-20 sm:h-24 sm:w-24 mb-2 border-2 border-white rounded-full shadow group-hover:shadow-md" src="{{ $page->url('assets/img/jess.jpg') }}" />
                         <div>Jess</div>
                     </a>
                 </div>
@@ -82,7 +82,7 @@
             </footer>
         </div>
 
-        <script src="{{ mix('js/main.js', 'assets/build') }}"></script>
+        <script src="{{ $page->url(mix('js/main.js', 'assets/build')) }}"></script>
 
         @stack('scripts')
     </body>

@@ -17,6 +17,9 @@ return [
     ],
 
     // helpers
+    'url' => function ($page, $link) {
+        return $page->baseUrl . '/' . trim($link, '/');
+    },
     'getDate' => function ($page) {
         return Datetime::createFromFormat('U', $page->date);
     },
