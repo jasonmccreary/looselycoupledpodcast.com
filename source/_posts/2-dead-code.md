@@ -3,11 +3,11 @@ extends: _layouts.post
 section: content
 title: Episode 2 - Dead Code
 date: 2019-05-29 12:00:00
-description: In this second episode, JMac and Jess discuss keeping your code fresh by removing dead code which will rot your codebase.
+description: In this episode, JMac and Jess discuss keeping your code fresh by removing dead code which will rot your codebase.
 ---
 <iframe src="https://share.transistor.fm/e/aaa1e173" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
 
-In this second episode, JMac and Jess discuss keeping your code fresh by removing dead code. While it might seem innocuous, dead code relays apathy to readers. Over time, dead code will rot a codebase.
+In this episode, JMac and Jess discuss keeping your code fresh by removing dead code. While it might seem innocuous, dead code relays apathy to readers. Over time, dead code will rot a codebase.
 
 ### Show Notes
 - [Outside-in testing](https://thoughtbot.com/blog/testing-from-the-outsidein)

@@ -7,7 +7,7 @@ description: In this episode, JMac and Jess discuss practices for flattening nes
 ---
 <iframe src="https://share.transistor.fm/e/e4114e47" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
 
-In this episode JMac and Jess discuss practices for flattening nested code. Since logic is the basis of all programs, most code contains branches and loops which affect readability. By focusing on these blocks of nested code we can
+In this episode, JMac and Jess discuss practices for flattening nested code. Since logic is the basis of all programs, most code contains branches and loops which affect readability. By focusing on these blocks of nested code we can dramatically reduce the complexity, and improve the readability of our code.
 
 ### Show Notes
 - [Shifty Plan](https://laravelshift.com/shifty-plans)
