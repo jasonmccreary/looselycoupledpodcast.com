@@ -12,4 +12,6 @@
     </h2>
 
     {!! $post->getContent() !!}
+
+    @include('_components.podcast-badges')
 </article>

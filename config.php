@@ -6,6 +6,11 @@ return [
     'siteName' => 'The BaseCode Podcast',
     'siteDescription' => 'A podcast of development related topics hosted from opposite sides of the planet.',
     'siteAuthor' => 'JMac and Jess',
+    'podcastLinks' => [
+        'apple' => 'https://podcasts.apple.com/us/podcast/the-basecode-podcast/id1466110887',
+        'spotify' => 'https://open.spotify.com/show/1fZHlOQkgJkmPbYpchfVDr',
+        'google' => 'https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy50cmFuc2lzdG9yLmZtL2Jhc2Vjb2RlLXBvZGNhc3Q',
+    ],
 
     // collections
     'collections' => [
