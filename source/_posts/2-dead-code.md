@@ -10,7 +10,6 @@ description: In this episode, JMac and Jess discuss keeping your code fresh by r
 In this episode, JMac and Jess discuss keeping your code fresh by removing dead code. While it might seem innocuous, dead code relays apathy to readers. Over time, dead code will rot a codebase.
 
 ### Show Notes
-- [Outside-in testing](https://thoughtbot.com/blog/testing-from-the-outsidein)
 - [The Pragmatic Programmer](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 - [Broken Windows Theory](https://en.wikipedia.org/wiki/Broken_windows_theory)
 - [Are you a Boy Scout?](https://dev.to/gonedark/are-you-a-boy-scout-b9)
