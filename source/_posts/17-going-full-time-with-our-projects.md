@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: Episode 17 - Using your tests
+title: Episode 17 - Going full-time with our projects
 date: 2020-03-10 8:00:00
 description: In this episode, JMac and Jess start a new mini-series where we talk about the projects we've built which have allowed us to go full-time working on our own stuff.
 ---
