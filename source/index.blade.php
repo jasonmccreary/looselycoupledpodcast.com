@@ -1,7 +1,7 @@
 ---
 pagination:
     collection: posts
-    perPage: 20
+    perPage: 50
 ---
 @extends('_layouts.master')
 
