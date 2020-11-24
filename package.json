@@ -13,7 +13,7 @@
         "cross-env": "^3.2.3",
         "extra-watch-webpack-plugin": "^1.0.3",
         "hasbin": "^1.2.3",
-        "highlight.js": "^9.18.1",
+        "highlight.js": "^10.1.2",
         "laravel-mix": "^4.1.4",
         "laravel-mix-purgecss": "^3.0.0",
         "node-cmd": "^3.0.0",
