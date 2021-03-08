@@ -31,7 +31,7 @@
         <textarea
           v-model="showVisualized ? visualizedCode : code"
           class="flex-grow p-4 border-b-2 font-mono text-xl leading-relaxed"
-          :class="[darkMode ? 'bg-gray-900 text-gray-100 border-gray-800' : 'bg-white text-gray-800']"
+          :class="[darkMode ? 'bg-gray-900 text-gray-50 border-gray-800' : 'bg-white text-gray-800']"
           placeholder="Paste your code here"
         ></textarea>
 
@@ -40,7 +40,7 @@
             p-4
             sm:flex sm:items-center
           "
-          :class="[darkMode ? 'bg-gray-900 text-gray-100' : 'bg-white text-gray-800']"
+          :class="[darkMode ? 'bg-gray-900 text-gray-50' : 'bg-white text-gray-800']"
         >
           <button
             class="
@@ -63,9 +63,9 @@
             </template>
           </button>
 
-          <div class="text-gray-500 italic mt-4 sm:mt-0 sm:ml-4">
+          <div class="text-gray-400 italic mt-4 sm:mt-0 sm:ml-4">
             Based on Kevlin Henny's "Visual Representation of Code".
-            <a href="https://basecodefieldguide.com/podcast/1-formatting/" class="underline hover:text-gray-600">Listen to the BaseCode Podcast discussion here.</a>
+            <a href="https://basecodefieldguide.com/podcast/1-formatting/" class="underline hover:text-gray-500">Listen to the BaseCode Podcast discussion here.</a>
           </div>
         </div>
       </div>
