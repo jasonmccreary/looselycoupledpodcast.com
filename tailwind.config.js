@@ -1,12 +1,8 @@
 module.exports = {
-  theme: {
-  },
-  variants: {
-    boxShadow: ['group-hover'],
-    width: ['responsive', 'focus'],
-  },
+  theme: [],
+  variants: { boxShadow: ['group-hover'], width: ['responsive', 'focus'] },
   plugins: [
-    function({ addUtilities }) {
+    function ({ addUtilities }) {
       const newUtilities = {
         '.transition-fast': {
           transition: 'all .2s ease-out',
@@ -17,6 +13,6 @@ module.exports = {
       }
 
       addUtilities(newUtilities)
-    }
-  ]
+    },
+  ],
 }
