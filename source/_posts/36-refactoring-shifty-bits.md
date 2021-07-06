@@ -3,7 +3,7 @@ extends: _layouts.post
 section: content
 title: Episode 36 - Refactoring the Shifty bits
 date: 2021-04-06 8:00:00
-description:
+description: In this episode, JMac and Jess talk discuss some refactoring during a recent pairing session with a focus on small iterations, honoring the tests, and a debate on naming things.
 ---
 <iframe src="https://share.transistor.fm/e/0dd18b15" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
 
