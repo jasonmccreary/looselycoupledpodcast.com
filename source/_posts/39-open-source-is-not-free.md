@@ -1,7 +1,7 @@
 ---
 extends: _layouts.post
 section: content
-title: Episode 39 - Building the Electron app
+title: Episode 39 -Open source is not free
 date: 2021-07-20 8:00:00
 description: In this episode, JMac and Jess discuss some of the open source tools used by the Workbench, our gripes, and how to contribute.
 ---
