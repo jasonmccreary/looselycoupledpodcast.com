@@ -10,7 +10,6 @@ description: In this episode, JMac and Jess discuss the little features we built
 In this episode, JMac and Jess discuss the little features we built into the Workbench desktop app like onboarding screens, keyboard shortcuts, and Editor Mode.
 
 ### Show Notes
-
 - [Arduino auto clicker](https://twitter.com/jessarchercodes/status/1420601858104598534) by Jess
 - [Laravel dragon sticker](https://twitter.com/jessarchercodes/status/1421318653799059456) from Yaz
 - [Shift Workbench](https://laravelshift.com/workbench)

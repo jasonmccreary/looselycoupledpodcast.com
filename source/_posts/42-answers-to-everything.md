@@ -10,7 +10,6 @@ description: In this episode, JMac and Jess round out the mini-series on buildin
 In this episode, JMac and Jess round out the mini-series on building the Workbench desktop app by answering questions about our development, deployment, and publishing processes.
 
 ### Show Notes
-
 - [Marvel Cinematic Universe](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe)
 - [Laravel by the Numbers](https://jasonmccreary.me/articles/laravel-numbers/)
 - [Shift Workbench](https://laravelshift.com/workbench)
