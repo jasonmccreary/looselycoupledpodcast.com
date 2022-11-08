@@ -12,5 +12,5 @@ In this episode, JMac continues his solo season talking Shift by reviewing its i
 ### Show Notes
 - [Indie Hackers Episode #208](https://www.indiehackers.com/podcast/208-jon-yongfook)
 - [Value Propositions That Work](https://hbr.org/2009/09/value-propositions-that-work)
-- [Full Stack Radio Episode #36](https://fullstackradio.com/36)
+- [Building Laravel Shift](http://www.fullstackradio.com/36) on Full Stack Radio
 - [Laravel New Release Schedule](https://blog.laravel.com/updates-to-laravels-versioning-policy)
