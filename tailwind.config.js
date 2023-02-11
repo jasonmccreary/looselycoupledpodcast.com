@@ -1,12 +1,10 @@
+const colors = require('tailwindcss/colors')
+
 module.exports = {
-  theme: {
-  },
-  variants: {
-    boxShadow: ['group-hover'],
-    width: ['responsive', 'focus'],
-  },
+  theme: { extend: { colors: { gray: colors.blueGray, orange: colors.orange, blue: colors.lightBlue } } },
+  variants: { boxShadow: ['group-hover'], width: ['responsive', 'focus'] },
   plugins: [
-    function({ addUtilities }) {
+    function ({ addUtilities }) {
       const newUtilities = {
         '.transition-fast': {
           transition: 'all .2s ease-out',
@@ -17,6 +15,6 @@ module.exports = {
       }
 
       addUtilities(newUtilities)
-    }
-  ]
+    },
+  ],
 }
