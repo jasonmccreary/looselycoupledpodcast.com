@@ -4,7 +4,7 @@ return [
     'baseUrl' => '',
     'production' => false,
     'siteName' => 'The BaseCode Podcast',
-    'siteDescription' => 'A podcast of development related topics hosted from opposite sides of the planet.',
+    'siteDescription' => 'A podcast by developers on opposite sites of the planet discussing ways to make code less complex and more readable.',
     'siteAuthor' => 'JMac and Jess',
     'podcastLinks' => [
         'apple' => 'https://podcasts.apple.com/us/podcast/the-basecode-podcast/id1466110887',

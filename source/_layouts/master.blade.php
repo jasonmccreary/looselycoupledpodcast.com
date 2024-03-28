@@ -46,8 +46,8 @@
                 <a href="/" title="{{ $page->siteName }} home" class="flex-shrink-0">
                     <img class="inline-block h-32 sm:h-64 border" src="{{ $page->url('assets/img/logo.png') }}" alt="{{ $page->siteName }} logo" />
                 </a>
-                <p class="mt-4 max-w-md mx-auto sm:mt-8 text-base sm:text-xl text-gray-700 italic">
-                    {{ $page->siteDescription }}
+                <p class="mt-4 max-w-md mx-auto sm:mt-8 text-base sm:text-xl text-gray-600 italic">
+                    A podcast by developers on opposite sites of the planet discussing ways to make code <strong class="text-gray-700 whitespace-no-wrap">less complex</strong> and <strong class="text-gray-700 whitespace-no-wrap">more readable</strong>.
                 </p>
                 <hr>
             </header>
