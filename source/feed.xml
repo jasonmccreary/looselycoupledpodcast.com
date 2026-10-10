@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://basecodefieldguide.com/podcast/feed.xml"/>
+    <title>The BaseCode Podcast</title>
+    <generator>looselycoupledpodcast.com</generator>
+    <itunes:new-feed-url>https://basecodefieldguide.com/podcast/feed.xml</itunes:new-feed-url>
+    <description>The BaseCode Podcast is a collection of mini-series discussions between Jason McCreary and Jess Archer on practices for writing less complex, more readable code, testing, and building products.</description>
+    <copyright>2020 Pure Concepts, LLC</copyright>
+    <podcast:guid>93ca23e2-dad2-57c2-b0f4-f6e702c99c18</podcast:guid>
+    <podcast:locked owner="orders@pureconcepts.net">no</podcast:locked>
+    <podcast:trailer pubdate="Tue, 21 May 2019 10:00:00 -0400" url="https://audio.basecodefieldguide.com/001-the-most-important-thing-when-writing-code.mp3" length="24565518" type="audio/mpeg">The most important thing when writing code…</podcast:trailer>
+    <language>en</language>
+    <pubDate>Fri, 09 Feb 2024 15:06:25 -0500</pubDate>
+    <lastBuildDate>Tue, 02 Dec 2025 15:14:41 -0500</lastBuildDate>
+    <link>https://basecodefieldguide.com/podcast</link>
+    <image>
+      <url>https://basecodefieldguide.com/podcast/assets/img/basecode-cover.jpg</url>
+      <title>The BaseCode Podcast</title>
+      <link>https://basecodefieldguide.com/podcast</link>
+    </image>
+    <itunes:category text="Education">
+      <itunes:category text="How To"/>
+    </itunes:category>
+    <itunes:category text="Technology"/>
+    <itunes:type>serial</itunes:type>
+    <itunes:author>JMac &amp; Jess</itunes:author>
+    <itunes:image href="https://basecodefieldguide.com/podcast/assets/img/basecode-cover.jpg"/>
+    <itunes:summary>The BaseCode Podcast is a collection of mini-series discussions between Jason McCreary and Jess Archer on practices for writing less complex, more readable code, testing, and building products.</itunes:summary>
+    <itunes:subtitle>The BaseCode Podcast is a collection of mini-series discussions between Jason McCreary and Jess Archer on practices for writing less complex, more readable code, testing, and building products..</itunes:subtitle>
+    <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Jason McCreary</itunes:name>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>The most important thing when writing code…</title>
+      <itunes:title>The most important thing when writing code…</itunes:title>
+      <itunes:episodeType>trailer</itunes:episodeType>
+      <guid isPermaLink="false">7194739e-605d-4e5e-acb7-5df29897fc33</guid>
+      <description>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://jasonmccreary.me/">Jason McCreary</a></li><li><a href="https://twitter.com/jessarchercodes">Jess Archer</a></li><li><a href="https://basecodefieldguide.com/">BaseCode Field Guide</a></li><li><a href="https://www.osnews.com/story/19266/wtfsm/">WTFs per minute</a></li><li><a href="https://www.goodreads.com/book/show/781559.Implementation_Patterns">Implementation Patterns</a> by Kent Beck</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://jasonmccreary.me/">Jason McCreary</a></li><li><a href="https://twitter.com/jessarchercodes">Jess Archer</a></li><li><a href="https://basecodefieldguide.com/">BaseCode Field Guide</a></li><li><a href="https://www.osnews.com/story/19266/wtfsm/">WTFs per minute</a></li><li><a href="https://www.goodreads.com/book/show/781559.Implementation_Patterns">Implementation Patterns</a> by Kent Beck</li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 21 May 2019 10:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/001-the-most-important-thing-when-writing-code.mp3" length="24565518" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1533</itunes:duration>
+      <itunes:summary>In this bootstrap episode, JMac and Jess talk about how they met and the driving motivation behind this podcast series. They lay the foundation for sharing 10 practices for writing less complex, more readable code.</itunes:summary>
+      <itunes:subtitle>In this bootstrap episode, JMac and Jess talk about how they met and the driving motivation behind this podcast series. They lay the foundation for sharing 10 practices for writing less complex, more readable code.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>1: It's not about tabs or spaces, it's about honesty.</title>
+      <itunes:episode>1</itunes:episode>
+      <podcast:episode>1</podcast:episode>
+      <itunes:title>1: It's not about tabs or spaces, it's about honesty.</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">0414ff0e-1a0b-4c28-90b0-0f5eeb39f45b</guid>
+      <description>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://tailwind-color-picker.jessarcher.com/">Tailwind Color Picker</a> by Jess</li><li><a href="https://www.infoq.com/presentations/7-ineffective-coding-habits">Seven Ineffective Coding Habits of Many Programmers</a> by Kevlin Henney (<em>Visual Honesty</em> @ 22:10)</li><li><a href="https://youtu.be/8bZh5LMaSmE">All the little things</a> by Sandi Metz (<em>Squint Test</em> @ 5:10)</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://tailwind-color-picker.jessarcher.com/">Tailwind Color Picker</a> by Jess</li><li><a href="https://www.infoq.com/presentations/7-ineffective-coding-habits">Seven Ineffective Coding Habits of Many Programmers</a> by Kevlin Henney (<em>Visual Honesty</em> @ 22:10)</li><li><a href="https://youtu.be/8bZh5LMaSmE">All the little things</a> by Sandi Metz (<em>Squint Test</em> @ 5:10)</li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 21 May 2019 12:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/002-1-it-s-not-about-tabs-or-spaces-it-s-about-honesty.mp3" length="20982894" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1309</itunes:duration>
+      <itunes:summary>In this first episode, Jess and JMac dive in head first by discussing why formatting actually does matter when writing code. It's not about tabs versus spaces or curly brace placement. Formatting is about the reader and ensuring we write code which is visually honest.</itunes:summary>
+      <itunes:subtitle>In this first episode, Jess and JMac dive in head first by discussing why formatting actually does matter when writing code. It's not about tabs versus spaces or curly brace placement. Formatting is about the reader and ensuring we write code which is vis</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>2: Don't live with dead code!</title>
+      <itunes:episode>2</itunes:episode>
+      <podcast:episode>2</podcast:episode>
+      <itunes:title>2: Don't live with dead code!</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">af4d2aa8-c33b-40f1-a4d0-813f7a931b97</guid>
+      <description>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://thoughtbot.com/blog/testing-from-the-outsidein">Outside-in testing</a></li><li><a href="https://pragprog.com/book/tpp/the-pragmatic-programmer">The Pragmatic Programmer</a></li><li><a href="https://en.wikipedia.org/wiki/Broken_windows_theory">Broken Windows Theory</a></li><li><a href="https://dev.to/gonedark/are-you-a-boy-scout-b9">Are you a Boy Scout?</a></li><li><a href="https://gettinggit.com/learn/master-git-add">git add -p</a></li><li><a href="https://github.com/golang/go/wiki/Switch">Switch statements in Go</a></li><li><a href="https://www.youtube.com/channel/UCxqiDtkXtOCNJdckODHk9YA/featured">Refactoring UI Videos</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://thoughtbot.com/blog/testing-from-the-outsidein">Outside-in testing</a></li><li><a href="https://pragprog.com/book/tpp/the-pragmatic-programmer">The Pragmatic Programmer</a></li><li><a href="https://en.wikipedia.org/wiki/Broken_windows_theory">Broken Windows Theory</a></li><li><a href="https://dev.to/gonedark/are-you-a-boy-scout-b9">Are you a Boy Scout?</a></li><li><a href="https://gettinggit.com/learn/master-git-add">git add -p</a></li><li><a href="https://github.com/golang/go/wiki/Switch">Switch statements in Go</a></li><li><a href="https://www.youtube.com/channel/UCxqiDtkXtOCNJdckODHk9YA/featured">Refactoring UI Videos</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Wed, 29 May 2019 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/003-2-don-t-live-with-dead-code.mp3" length="30121570" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1880</itunes:duration>
+      <itunes:summary>In this second episode, JMac and Jess discuss keeping your code fresh by removing dead code. While it might seem innocuous, dead code relays apathy to readers. Over time, dead code will rot a codebase.</itunes:summary>
+      <itunes:subtitle>In this second episode, JMac and Jess discuss keeping your code fresh by removing dead code. While it might seem innocuous, dead code relays apathy to readers. Over time, dead code will rot a codebase.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>3: Exposing the code's primary action…</title>
+      <itunes:episode>3</itunes:episode>
+      <podcast:episode>3</podcast:episode>
+      <itunes:title>3: Exposing the code's primary action…</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">3f3b1bd2-634d-45da-b626-f4c25216162a</guid>
+      <description>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://laravelshift.com/shifty-plans">Shifty Plans</a></li><li><a href="https://docs.swift.org/swift-book/ReferenceManual/Statements.html#grammar_guard-statement">Guard statement</a> in Swift</li><li><a href="https://www.perforce.com/blog/qac/what-cyclomatic-complexity">Cyclomatic Complexity</a></li><li><a href="https://hackernoon.com/understanding-map-filter-and-reduce-in-javascript-5df1c7eee464">Map, Filter, Reduce</a> in JavaScript</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://laravelshift.com/shifty-plans">Shifty Plans</a></li><li><a href="https://docs.swift.org/swift-book/ReferenceManual/Statements.html#grammar_guard-statement">Guard statement</a> in Swift</li><li><a href="https://www.perforce.com/blog/qac/what-cyclomatic-complexity">Cyclomatic Complexity</a></li><li><a href="https://hackernoon.com/understanding-map-filter-and-reduce-in-javascript-5df1c7eee464">Map, Filter, Reduce</a> in JavaScript</li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 04 Jun 2019 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/004-3-exposing-the-code-s-primary-action.mp3" length="29812164" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1861</itunes:duration>
+      <itunes:summary>In this episode JMac and Jess discuss practices for breaking up nested code. Since logic is the basis of all programs, most code contains branches and loops which affect readability. By focusing on these blocks of nested code we can help readers see the code's primary action. </itunes:summary>
+      <itunes:subtitle>In this episode JMac and Jess discuss practices for breaking up nested code. Since logic is the basis of all programs, most code contains branches and loops which affect readability. By focusing on these blocks of nested code we can help readers see the c</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>4: Primitive obsession leads to primitive code.</title>
+      <itunes:episode>4</itunes:episode>
+      <podcast:episode>4</podcast:episode>
+      <itunes:title>4: Primitive obsession leads to primitive code.</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">19ecdb81-160e-49c1-89e4-f9b596cf13da</guid>
+      <description>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://basecodefieldguide.com/podcast">The BaseCode Podcast</a></li><li><a href="http://chriswheeler.blogspot.com/2005/05/my-favourite-smells.html">My Favourite Smells</a> by Chris Wheeler</li><li><a href="https://www.php.net/manual/en/language.types.intro.php">Scalar Types</a> in PHP</li><li><a href="https://ruby-doc.org/core-2.5.0/Integer.html#method-i-times">Integer.times</a> in Ruby</li><li><a href="https://carbon.nesbot.com/">Carbon</a></li><li><a href="https://martinfowler.com/bliki/ValueObject.html">ValueObject</a> by Martin Fowler</li><li><a href="https://martinfowler.com/eaaDev/Range.html">Range Object</a> by Martin Fowler</li><li><a href="https://hackernoon.com/5-benefits-of-immutable-objects-worth-considering-for-your-next-project-f98e7e85b6ac">5 Benefits of Immutable Objects</a></li><li><a href="https://stitcher.io/blog/php-enums">Enum Object</a> in PHP</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://basecodefieldguide.com/podcast">The BaseCode Podcast</a></li><li><a href="http://chriswheeler.blogspot.com/2005/05/my-favourite-smells.html">My Favourite Smells</a> by Chris Wheeler</li><li><a href="https://www.php.net/manual/en/language.types.intro.php">Scalar Types</a> in PHP</li><li><a href="https://ruby-doc.org/core-2.5.0/Integer.html#method-i-times">Integer.times</a> in Ruby</li><li><a href="https://carbon.nesbot.com/">Carbon</a></li><li><a href="https://martinfowler.com/bliki/ValueObject.html">ValueObject</a> by Martin Fowler</li><li><a href="https://martinfowler.com/eaaDev/Range.html">Range Object</a> by Martin Fowler</li><li><a href="https://hackernoon.com/5-benefits-of-immutable-objects-worth-considering-for-your-next-project-f98e7e85b6ac">5 Benefits of Immutable Objects</a></li><li><a href="https://stitcher.io/blog/php-enums">Enum Object</a> in PHP</li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 11 Jun 2019 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/005-4-primitive-obsession-leads-to-primitive-code.mp3" length="27785804" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1734</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss how primitive obsession leads to primitive code and how using objects allows you to write less complex, more readable code.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss how primitive obsession leads to primitive code and how using objects allows you to write less complex, more readable code.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>5: Breaking up big blocks of code.</title>
+      <itunes:episode>5</itunes:episode>
+      <podcast:episode>5</podcast:episode>
+      <itunes:title>5: Breaking up big blocks of code.</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">bc53f9f7-7871-4fb2-99c4-cb9497c1fe18</guid>
+      <description>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://podcasts.apple.com/us/podcast/the-basecode-podcast/id1466110887">Rate us in Apple Podcasts</a></li><li><a href="https://stackoverflow.com/questions/5436034/is-there-a-ruby-one-line-return-if-x">return if</a> in Ruby</li><li><a href="https://www.youtube.com/playlist?list=PLmwAMIdrAmK7cjLLYrKppUhaR2ywTuKhm">BaseCode Refactoring Videos</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://podcasts.apple.com/us/podcast/the-basecode-podcast/id1466110887">Rate us in Apple Podcasts</a></li><li><a href="https://stackoverflow.com/questions/5436034/is-there-a-ruby-one-line-return-if-x">return if</a> in Ruby</li><li><a href="https://www.youtube.com/playlist?list=PLmwAMIdrAmK7cjLLYrKppUhaR2ywTuKhm">BaseCode Refactoring Videos</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 18 Jun 2019 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/006-5-breaking-up-big-blocks-of-code.mp3" length="27224695" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1699</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss how to break up long blocks of code by reviewing the 3 step process outlined in BaseCode.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss how to break up long blocks of code by reviewing the 3 step process outlined in BaseCode.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>6: Naming things is easy…</title>
+      <itunes:episode>6</itunes:episode>
+      <podcast:episode>6</podcast:episode>
+      <itunes:title>6: Naming things is easy…</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">b4c12037-2198-46ce-93a1-71d6535b535e</guid>
+      <description>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://www.goodreads.com/book/show/3735293-clean-code">Clean Code</a> by Uncle Bob</li><li><a href="https://www.martinfowler.com/bliki/TwoHardThings.html">Two Hard Things</a> quote by Phil Karlton</li><li><a href="https://thoughtbot.com/blog/the-vim-learning-curve-is-a-myth">The Vim Learning Curve is a Myth</a> by Ben Orenstein</li><li><a href="https://developer.apple.com/documentation/foundation/nsstring/1416395-padding#discussion">String padding</a> in Objective-C</li><li><a href="https://signalvnoise.com/posts/3250-clarity-over-brevity-in-variable-and-method-names">Clarity over brevity in variable and method names</a> by DHH</li><li>Send questions to <a href="https://twitter.com/gonedark">JMac</a> or <a href="https://twitter.com/jessarchercodes">Jess</a></li></ul><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://www.goodreads.com/book/show/3735293-clean-code">Clean Code</a> by Uncle Bob</li><li><a href="https://www.martinfowler.com/bliki/TwoHardThings.html">Two Hard Things</a> quote by Phil Karlton</li><li><a href="https://thoughtbot.com/blog/the-vim-learning-curve-is-a-myth">The Vim Learning Curve is a Myth</a> by Ben Orenstein</li><li><a href="https://developer.apple.com/documentation/foundation/nsstring/1416395-padding#discussion">String padding</a> in Objective-C</li><li><a href="https://signalvnoise.com/posts/3250-clarity-over-brevity-in-variable-and-method-names">Clarity over brevity in variable and method names</a> by DHH</li><li>Send questions to <a href="https://twitter.com/gonedark">JMac</a> or <a href="https://twitter.com/jessarchercodes">Jess</a></li></ul><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Tue, 25 Jun 2019 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/007-6-naming-things-is-easy.mp3" length="28642152" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1788</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss ways to make naming things easier with a simple set of tips sourced from dozens of books, practiced in other languages, and distilled over 20 years of writing code.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss ways to make naming things easier with a simple set of tips sourced from dozens of books, practiced in other languages, and distilled over 20 years of writing code.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>7: Challenge yourself to remove comments.</title>
+      <itunes:episode>7</itunes:episode>
+      <podcast:episode>7</podcast:episode>
+      <itunes:title>7: Challenge yourself to remove comments.</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">0ec22ef6-386a-48d1-a796-855ee571bfec</guid>
+      <description>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://jasonmccreary.me/articles/removing-comments/">Removing Comments</a> by Jason McCreary</li><li><a href="https://www.reddit.com/r/ProgrammerHumor/comments/8w54mx/code_comments_be_like/">"90% of code comments" meme</a></li><li><a href="https://jasonmccreary.me/articles/the-proximity-rule/">The Proximity Rule</a> by Jason McCreary</li><li><a href="http://pk.org/rutgers/notes/pikestyle.html">Notes on Programming in C</a> by Rob Pike ("<em>Comments</em>" section)</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://jasonmccreary.me/articles/removing-comments/">Removing Comments</a> by Jason McCreary</li><li><a href="https://www.reddit.com/r/ProgrammerHumor/comments/8w54mx/code_comments_be_like/">"90% of code comments" meme</a></li><li><a href="https://jasonmccreary.me/articles/the-proximity-rule/">The Proximity Rule</a> by Jason McCreary</li><li><a href="http://pk.org/rutgers/notes/pikestyle.html">Notes on Programming in C</a> by Rob Pike ("<em>Comments</em>" section)</li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 02 Jul 2019 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/008-7-challenge-yourself-to-remove-comments.mp3" length="19201386" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1198</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess talk about how the simple practice of removing comments can push you to write more readable code and point out some of the nuances of commenting code.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess talk about how the simple practice of removing comments can push you to write more readable code and point out some of the nuances of commenting code.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>8: Your code should provide reasonable returns</title>
+      <itunes:episode>8</itunes:episode>
+      <podcast:episode>8</podcast:episode>
+      <itunes:title>8: Your code should provide reasonable returns</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">53c923d5-9ccb-4a3e-af57-26b148d8f1cd</guid>
+      <description>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/">The Billion Dollar Mistake</a> by Tony Hoare</li><li><a href="https://github.com/jasonmccreary/laravel-test-assertions">Laravel HTTP Test Assertions</a> by JMac</li><li><a href="https://www.php.net/manual/en/function.empty.php#refsect1-function.empty-returnvalues">Empty Values</a> in PHP</li><li><a href="https://refactoring.guru/introduce-null-object">Introduce Null Object</a></li><li><a href="https://softwareengineering.stackexchange.com/questions/32617/would-you-see-any-use-of-a-trilean-true-false">Trilean Values</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/">The Billion Dollar Mistake</a> by Tony Hoare</li><li><a href="https://github.com/jasonmccreary/laravel-test-assertions">Laravel HTTP Test Assertions</a> by JMac</li><li><a href="https://www.php.net/manual/en/function.empty.php#refsect1-function.empty-returnvalues">Empty Values</a> in PHP</li><li><a href="https://refactoring.guru/introduce-null-object">Introduce Null Object</a></li><li><a href="https://softwareengineering.stackexchange.com/questions/32617/would-you-see-any-use-of-a-trilean-true-false">Trilean Values</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 09 Jul 2019 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/009-8-your-code-should-provide-reasonable-returns.mp3" length="21880755" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1365</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss the billion dollar mistake of null and share practices for combating null as well as other clumsy return values to make the code less complex and more readable.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss the billion dollar mistake of null and share practices for combating null as well as other clumsy return values to make the code less complex and more readable.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>9: Defer code until necessary...</title>
+      <itunes:episode>9</itunes:episode>
+      <podcast:episode>9</podcast:episode>
+      <itunes:title>9: Defer code until necessary...</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">77187196-46b2-4d73-a8ad-3ebbe99275a7</guid>
+      <description>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://jasonmccreary.me/articles/start-testing-laravel/">Start testing your Laravel applications</a> by JMac</li><li><a href="https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction">The Wrong Abstraction</a> by Sandi Metz</li><li><a href="http://bobnadler.com/articles/2014/01/26/the-rule-of-three.html">Rule of Three</a> by Bob Nadler</li><li><a href="https://basecamp.com/shapeup">Shape Up</a> by Ryan Singer</li><li><a href="http://www.fullstackradio.com/16">Tiny Decisions and Emergent Design</a> on Full Stack Radio</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://jasonmccreary.me/articles/start-testing-laravel/">Start testing your Laravel applications</a> by JMac</li><li><a href="https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction">The Wrong Abstraction</a> by Sandi Metz</li><li><a href="http://bobnadler.com/articles/2014/01/26/the-rule-of-three.html">Rule of Three</a> by Bob Nadler</li><li><a href="https://basecamp.com/shapeup">Shape Up</a> by Ryan Singer</li><li><a href="http://www.fullstackradio.com/16">Tiny Decisions and Emergent Design</a> on Full Stack Radio</li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 16 Jul 2019 08:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/010-9-defer-code-until-necessary.mp3" length="23252297" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1451</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss the Rule of Three to help combat our need to abstract away even the tiniest bit of duplication in our code.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss the Rule of Three to help combat our need to abstract away even the tiniest bit of duplication in our code.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>10: Expressed the same way everywhere…</title>
+      <itunes:episode>10</itunes:episode>
+      <podcast:episode>10</podcast:episode>
+      <itunes:title>10: Expressed the same way everywhere…</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">2b71cea6-3b33-41c8-b280-e7989c0341ef</guid>
+      <description>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://jasonmccreary.me/articles/lower-time-testing-existing-laravel-application/">Laravel Test Generator Shift</a> by JMac</li><li><a href="https://www.goodreads.com/book/show/781559.Implementation_Patterns">Implementation Patterns</a> by Kent Beck</li><li><a href="https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/">PHP: a factal of bad design</a></li><li><a href="https://www.youtube.com/watch?v=6Bw034u1j1c&amp;list=PLmwAMIdrAmK7cjLLYrKppUhaR2ywTuKhm&amp;index=4">Symmetry in Practice</a> by JMac</li><li><a href="https://twitter.com/jessarchercodes">Jess</a> and <a href="https://twitter.com/gonedark">JMac</a> on Twitter</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><b>Show Notes</b></p><ul><li><a href="https://jasonmccreary.me/articles/lower-time-testing-existing-laravel-application/">Laravel Test Generator Shift</a> by JMac</li><li><a href="https://www.goodreads.com/book/show/781559.Implementation_Patterns">Implementation Patterns</a> by Kent Beck</li><li><a href="https://eev.ee/blog/2012/04/09/php-a-fractal-of-bad-design/">PHP: a factal of bad design</a></li><li><a href="https://www.youtube.com/watch?v=6Bw034u1j1c&amp;list=PLmwAMIdrAmK7cjLLYrKppUhaR2ywTuKhm&amp;index=4">Symmetry in Practice</a> by JMac</li><li><a href="https://twitter.com/jessarchercodes">Jess</a> and <a href="https://twitter.com/gonedark">JMac</a> on Twitter</li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 23 Jul 2019 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/011-10-expressed-the-same-way-everywhere.mp3" length="25975531" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1621</itunes:duration>
+      <itunes:summary>In this final episode of The BaseCode Podcast, JMac and Jess discuss the practice of symmetry as defined by Kent Beck where the same idea is expressed the same way everywhere it appears.</itunes:summary>
+      <itunes:subtitle>In this final episode of The BaseCode Podcast, JMac and Jess discuss the practice of symmetry as defined by Kent Beck where the same idea is expressed the same way everywhere it appears.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>11: Test, test, testing… 1, 2, 3…</title>
+      <itunes:episode>11</itunes:episode>
+      <podcast:episode>11</podcast:episode>
+      <itunes:title>11: Test, test, testing… 1, 2, 3…</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">b194aba1-d37c-4bfd-a5cd-7e103f18c632</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laracon.com.au/">Laracon AU</a></li><li><a href="https://confidentlaravel.com/">Confident Laravel</a></li><li><a href="https://laravelshift.com/laravel-test-generator">Laravel Shift Automated Test Generator</a></li><li><a href="https://en.m.wikipedia.org/wiki/Extreme_Programming">Extreme Programming</a></li><li><a href="https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition">The Pragmatic Programmer</a></li></ul><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laracon.com.au/">Laracon AU</a></li><li><a href="https://confidentlaravel.com/">Confident Laravel</a></li><li><a href="https://laravelshift.com/laravel-test-generator">Laravel Shift Automated Test Generator</a></li><li><a href="https://en.m.wikipedia.org/wiki/Extreme_Programming">Extreme Programming</a></li><li><a href="https://pragprog.com/book/tpp20/the-pragmatic-programmer-20th-anniversary-edition">The Pragmatic Programmer</a></li></ul><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Tue, 08 Oct 2019 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/012-11-test-test-testing-1-2-3.mp3" length="21786600" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1359</itunes:duration>
+      <itunes:summary>In this episode of the BaseCode podcast, JMac and Jess start a new 6 episode mini-series about testing.</itunes:summary>
+      <itunes:subtitle>In this episode of the BaseCode podcast, JMac and Jess start a new 6 episode mini-series about testing.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>12: Who cares, just write tests!</title>
+      <itunes:episode>12</itunes:episode>
+      <podcast:episode>12</podcast:episode>
+      <itunes:title>12: Who cares, just write tests!</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">28b96946-2605-4184-99f1-44cfe917dc74</guid>
+      <description>
+        <![CDATA[In this episode, JMac and Jess discuss the different types of tests, when to use them, and ultimately what matters most is writing tests.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[In this episode, JMac and Jess discuss the different types of tests, when to use them, and ultimately what matters most is writing tests.]]>
+      </content:encoded>
+      <pubDate>Tue, 15 Oct 2019 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/013-12-who-cares-just-write-tests.mp3" length="27355556" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1707</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss the different types of tests, when to use them, and ultimately what matters most is writing tests.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss the different types of tests, when to use them, and ultimately what matters most is writing tests.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>13: Getting started with testing</title>
+      <itunes:episode>13</itunes:episode>
+      <podcast:episode>13</podcast:episode>
+      <itunes:title>13: Getting started with testing</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6c9959db-bb05-4ccf-9e2d-f9894a17004f</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://blog.laravel.com/laravel-snippet-15">Laravel Snippet</a> by Taylor Otwell</li><li><a href="https://www.youtube.com/watch?v=2sPfQIC7cqk&amp;list=PLmwAMIdrAmK5q0c0JUqzW3u9tb0AqW95w">Building Blueprint</a> Live Streams</li><li><a href="https://laracon.com.au/">Laracon AU</a></li><li><a href="http://agiledata.org/essays/tdd.html">Introduction to TDD</a></li><li><a href="https://confidentlaravel.com/">Confident Laravel</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://blog.laravel.com/laravel-snippet-15">Laravel Snippet</a> by Taylor Otwell</li><li><a href="https://www.youtube.com/watch?v=2sPfQIC7cqk&amp;list=PLmwAMIdrAmK5q0c0JUqzW3u9tb0AqW95w">Building Blueprint</a> Live Streams</li><li><a href="https://laracon.com.au/">Laracon AU</a></li><li><a href="http://agiledata.org/essays/tdd.html">Introduction to TDD</a></li><li><a href="https://confidentlaravel.com/">Confident Laravel</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 22 Oct 2019 14:30:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/014-13-getting-started-with-testing.mp3" length="22403565" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1398</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss how to get started testing by selling your on testing and where to write your first test.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss how to get started testing by selling your on testing and where to write your first test.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>14: The 5 Test Doubles</title>
+      <itunes:episode>14</itunes:episode>
+      <podcast:episode>14</podcast:episode>
+      <itunes:title>14: The 5 Test Doubles</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1e2c17f1-c139-4025-b4d9-75a07e267273</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://martinfowler.com/bliki/TestDouble.html">Test Doubles</a> by Martin Fowler</li><li>Tweet about <a href="https://twitter.com/gonedark/status/1172300633417732098?s=20">Mockery Trait</a></li><li>Tweet about <a href="https://twitter.com/gonedark/status/1167120368655654913?s=20">Test Double Priority</a></li><li><a href="https://www.youtube.com/watch?v=VDfX44fZoMc&amp;feature=youtu.be&amp;t=3194">Push it to the boundary</a> by J.B. Rainsberger</li></ul><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://martinfowler.com/bliki/TestDouble.html">Test Doubles</a> by Martin Fowler</li><li>Tweet about <a href="https://twitter.com/gonedark/status/1172300633417732098?s=20">Mockery Trait</a></li><li>Tweet about <a href="https://twitter.com/gonedark/status/1167120368655654913?s=20">Test Double Priority</a></li><li><a href="https://www.youtube.com/watch?v=VDfX44fZoMc&amp;feature=youtu.be&amp;t=3194">Push it to the boundary</a> by J.B. Rainsberger</li></ul><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Tue, 29 Oct 2019 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/015-14-the-5-test-doubles.mp3" length="29225023" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1824</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss the 5 different test doubles and how to use them within your tests.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss the 5 different test doubles and how to use them within your tests.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>15: How we write tests</title>
+      <itunes:episode>15</itunes:episode>
+      <podcast:episode>15</podcast:episode>
+      <itunes:title>15: How we write tests</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">8835e2e2-72b3-4567-8342-7b70122aa740</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://jasonmccreary.me/articles/crafting-maintainable-laravel-applications/">10 Tips for Crafting Maintainable Laravel Applications</a></li><li><a href="https://thoughtbot.com/blog/testing-from-the-outsidein">Outside-In Testing</a></li><li><a href="https://medium.com/rebaze/into-developer-ergonomics-d3d7e0d1da6f">Developer Ergonomics</a></li><li>Tweet about <a href="https://twitter.com/taylorotwell/status/706142963701719040?s=20">Spell Checking Tests</a></li><li><a href="https://jasonmccreary.me/articles/test-validation-laravel-form-request-assertion/">Testing validation in Laravel</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://jasonmccreary.me/articles/crafting-maintainable-laravel-applications/">10 Tips for Crafting Maintainable Laravel Applications</a></li><li><a href="https://thoughtbot.com/blog/testing-from-the-outsidein">Outside-In Testing</a></li><li><a href="https://medium.com/rebaze/into-developer-ergonomics-d3d7e0d1da6f">Developer Ergonomics</a></li><li>Tweet about <a href="https://twitter.com/taylorotwell/status/706142963701719040?s=20">Spell Checking Tests</a></li><li><a href="https://jasonmccreary.me/articles/test-validation-laravel-form-request-assertion/">Testing validation in Laravel</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 05 Nov 2019 09:00:00 -0500</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/016-15-how-we-write-tests.mp3" length="24846449" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1551</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss in more detail what we do and don't test within our code.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss in more detail what we do and don't test within our code.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>16: Using your tests</title>
+      <itunes:episode>16</itunes:episode>
+      <podcast:episode>16</podcast:episode>
+      <itunes:title>16: Using your tests</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a3436e40-b4bb-4c75-86da-3fe868c70120</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laravel-news.com/tips-to-speed-up-phpunit-tests">Tips for PHPUnit Tests</a> by Tim MacDonald</li><li><a href="https://adamwathan.me/2017/01/16/optimizing-your-phpunit-workflow-in-sublime-text/">Sublime PHPUnit</a> by Adam Wathan</li><li><a href="https://nyu-cds.github.io/effective-code-reviews/03-checklist/">Effective Code Review Checklist</a></li><li><a href="https://djangostars.com/blog/continuous-integration-circleci-vs-travisci-vs-jenkins/?utm_source=medium&amp;utm_medium=hackernoon.com&amp;utm_campaign=continuous%20integration&amp;utm_content=continue%20reading">Getting Started with Continuous Integration</a></li><li><a href="https://twitter.com/jessarchercodes">Jess</a> and <a href="https://twitter.com/gonedark">JMac</a> on Twitter</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laravel-news.com/tips-to-speed-up-phpunit-tests">Tips for PHPUnit Tests</a> by Tim MacDonald</li><li><a href="https://adamwathan.me/2017/01/16/optimizing-your-phpunit-workflow-in-sublime-text/">Sublime PHPUnit</a> by Adam Wathan</li><li><a href="https://nyu-cds.github.io/effective-code-reviews/03-checklist/">Effective Code Review Checklist</a></li><li><a href="https://djangostars.com/blog/continuous-integration-circleci-vs-travisci-vs-jenkins/?utm_source=medium&amp;utm_medium=hackernoon.com&amp;utm_campaign=continuous%20integration&amp;utm_content=continue%20reading">Getting Started with Continuous Integration</a></li><li><a href="https://twitter.com/jessarchercodes">Jess</a> and <a href="https://twitter.com/gonedark">JMac</a> on Twitter</li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 12 Nov 2019 09:00:00 -0500</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/017-16-using-your-tests.mp3" length="23029686" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1437</itunes:duration>
+      <itunes:summary>In this final episode on testing, JMac and Jess continue the discussion on how we write tests and how we use the tests to maintain the codebase.</itunes:summary>
+      <itunes:subtitle>In this final episode on testing, JMac and Jess continue the discussion on how we write tests and how we use the tests to maintain the codebase.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>17: Going full-time with our projects</title>
+      <itunes:episode>17</itunes:episode>
+      <podcast:episode>17</podcast:episode>
+      <itunes:title>17: Going full-time with our projects</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6daeca6f-9b0e-442e-b2a2-55376559f989</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://twitter.com/gonedark/status/1222945023999856640">Tailwind Converter Shift</a></li><li><a href="https://giftyduck.com/">Gifty Duck</a></li><li><a href="https://laravelshift.com/">Shift</a></li><li><a href="https://jasonmccreary.me/articles/2019-review-2020-goals/">A review of 2019 and goals for 2020</a> by JMac</li><li><a href="https://jasonmccreary.me/articles/why-i-leave-a-job/">Why I leave a job</a> by JMac</li><li><a href="https://justinjackson.ca/solorisk">Being a solopreneur has risks</a> by Justin Jackson</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://twitter.com/gonedark/status/1222945023999856640">Tailwind Converter Shift</a></li><li><a href="https://giftyduck.com/">Gifty Duck</a></li><li><a href="https://laravelshift.com/">Shift</a></li><li><a href="https://jasonmccreary.me/articles/2019-review-2020-goals/">A review of 2019 and goals for 2020</a> by JMac</li><li><a href="https://jasonmccreary.me/articles/why-i-leave-a-job/">Why I leave a job</a> by JMac</li><li><a href="https://justinjackson.ca/solorisk">Being a solopreneur has risks</a> by Justin Jackson</li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 10 Mar 2020 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/018-17-going-full-time-with-our-projects.mp3" length="22480588" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1403</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess start a new mini-series where we talk about the projects we've built which have allowed us to go full-time working on our own stuff.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess start a new mini-series where we talk about the projects we've built which have allowed us to go full-time working on our own stuff.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>18: Let's talk about stacks</title>
+      <itunes:episode>18</itunes:episode>
+      <podcast:episode>18</podcast:episode>
+      <itunes:title>18: Let's talk about stacks</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">b3c5179f-474c-488c-8f59-83e1dacba9e5</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li>Tweet about <a href="https://twitter.com/gonedark/status/1234233318905913345">JMac's Chili</a></li><li><a href="https://en.wikipedia.org/wiki/Monorepo">Monorepositories</a> on Wikipedia</li><li><a href="https://about.gitlab.com/blog/2016/10/25/gitlab-workflow-an-overview/">GitLab Workflow</a></li><li><a href="http://www.fullstackradio.com/36">Building Laravel Shift</a> on Full Stack Radio</li><li><a href="https://github.com/laravel/framework/pull/31287">Production-ready database queues</a></li><li><a href="https://forge.laravel.com/">Laravel Forge</a></li><li><a href="https://vapor.laravel.com/">Laravel Vapor</a></li><li><a href="https://laravel.com/docs/7.x/billing">Laravel Cashier</a></li><li><a href="https://spark.laravel.com/">Laravel Spark</a></li><li><a href="https://laravel.com/docs/7.x/socialite">Laravel Socialite</a></li><li><a href="https://www.digitalocean.com/">Digital Ocean</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li>Tweet about <a href="https://twitter.com/gonedark/status/1234233318905913345">JMac's Chili</a></li><li><a href="https://en.wikipedia.org/wiki/Monorepo">Monorepositories</a> on Wikipedia</li><li><a href="https://about.gitlab.com/blog/2016/10/25/gitlab-workflow-an-overview/">GitLab Workflow</a></li><li><a href="http://www.fullstackradio.com/36">Building Laravel Shift</a> on Full Stack Radio</li><li><a href="https://github.com/laravel/framework/pull/31287">Production-ready database queues</a></li><li><a href="https://forge.laravel.com/">Laravel Forge</a></li><li><a href="https://vapor.laravel.com/">Laravel Vapor</a></li><li><a href="https://laravel.com/docs/7.x/billing">Laravel Cashier</a></li><li><a href="https://spark.laravel.com/">Laravel Spark</a></li><li><a href="https://laravel.com/docs/7.x/socialite">Laravel Socialite</a></li><li><a href="https://www.digitalocean.com/">Digital Ocean</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 17 Mar 2020 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/019-18-let-s-talk-about-stacks.mp3" length="26270450" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1640</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess talk about the tech stacks which power Gifty Duck and Shift.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess talk about the tech stacks which power Gifty Duck and Shift.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>19: How we work</title>
+      <itunes:episode>19</itunes:episode>
+      <podcast:episode>19</podcast:episode>
+      <itunes:title>19: How we work</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">273ad796-f9bc-437f-9d76-8b839caba531</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li>Tweet about <a href="https://twitter.com/gonedark/status/1236680925548883968">JMac's Engagement</a></li><li><a href="https://jasonmccreary.me/articles/why-your-team-should-not-upgrade-old-laravel-applications/">Why your team should not be upgrading your Laravel applications</a> by JMac</li><li><a href="https://github.com/laravel-shift/blueprint">Blueprint</a></li><li><a href="https://bulletjournal.com/pages/learn">Bullet Journalling</a></li><li><a href="https://www.businessinsider.com/microsoft-4-day-work-week-boosts-productivity-2019-11">Microsoft's 4-day workweek</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li>Tweet about <a href="https://twitter.com/gonedark/status/1236680925548883968">JMac's Engagement</a></li><li><a href="https://jasonmccreary.me/articles/why-your-team-should-not-upgrade-old-laravel-applications/">Why your team should not be upgrading your Laravel applications</a> by JMac</li><li><a href="https://github.com/laravel-shift/blueprint">Blueprint</a></li><li><a href="https://bulletjournal.com/pages/learn">Bullet Journalling</a></li><li><a href="https://www.businessinsider.com/microsoft-4-day-work-week-boosts-productivity-2019-11">Microsoft's 4-day workweek</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 24 Mar 2020 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/020-19-how-we-work.mp3" length="20104292" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1254</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess talk about how we structure our days and decide what to work on next.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess talk about how we structure our days and decide what to work on next.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>20: Our hardest technical challenges</title>
+      <itunes:episode>20</itunes:episode>
+      <podcast:episode>20</podcast:episode>
+      <itunes:title>20: Our hardest technical challenges</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">bb7fb9e2-ca16-40c1-8cc3-bf828fd4399c</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://vapor.laravel.com/">Laravel Vapor</a> by JMac</li><li><a href="https://laravel.com/docs/queues">Queues in Laravel</a></li><li><a href="https://softwareengineering.stackexchange.com/questions/29513/is-reinventing-the-wheel-really-all-that-bad">Is reinventing the wheel bad?</a></li><li>Tweet about <a href="https://twitter.com/JackEllis/status/1234470799496495107">Serverless Laravel</a> by Jack Ellis</li><li><a href="https://en.wikipedia.org/wiki/Idempotence">Idempotence</a></li><li><a href="https://en.wikipedia.org/wiki/Abstract_syntax_tree">Abstract Syntax Tree</a></li><li><a href="https://github.com/nikic/PHP-Parser">PHP Parser</a></li><li><a href="https://microsoft.github.io/language-server-protocol/">Language Server Protocol</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://vapor.laravel.com/">Laravel Vapor</a> by JMac</li><li><a href="https://laravel.com/docs/queues">Queues in Laravel</a></li><li><a href="https://softwareengineering.stackexchange.com/questions/29513/is-reinventing-the-wheel-really-all-that-bad">Is reinventing the wheel bad?</a></li><li>Tweet about <a href="https://twitter.com/JackEllis/status/1234470799496495107">Serverless Laravel</a> by Jack Ellis</li><li><a href="https://en.wikipedia.org/wiki/Idempotence">Idempotence</a></li><li><a href="https://en.wikipedia.org/wiki/Abstract_syntax_tree">Abstract Syntax Tree</a></li><li><a href="https://github.com/nikic/PHP-Parser">PHP Parser</a></li><li><a href="https://microsoft.github.io/language-server-protocol/">Language Server Protocol</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 31 Mar 2020 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/021-20-our-hardest-technical-challenges.mp3" length="25113607" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1567</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess talk about the hardest technical challenges we have faced when building our products.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess talk about the hardest technical challenges we have faced when building our products.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>21: Marketing, support, and pricing</title>
+      <itunes:episode>21</itunes:episode>
+      <podcast:episode>21</podcast:episode>
+      <itunes:title>21: Marketing, support, and pricing</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e06a8559-f201-4143-858c-c651fbc6132b</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laravel-news.com/laracon-us-2020-cancelled">Laracon cancelled</a></li><li><a href="https://jasonmccreary.me/articles/shift-database-outage/">Postmortem: Shift Database Outage</a></li><li><a href="https://tinkerwell.app/">Tinkerwell</a></li><li><a href="https://laravelshift.com/opinionated-laravel-way-shift">Laravel Linter</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laravel-news.com/laracon-us-2020-cancelled">Laracon cancelled</a></li><li><a href="https://jasonmccreary.me/articles/shift-database-outage/">Postmortem: Shift Database Outage</a></li><li><a href="https://tinkerwell.app/">Tinkerwell</a></li><li><a href="https://laravelshift.com/opinionated-laravel-way-shift">Laravel Linter</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 07 Apr 2020 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/022-21-marketing-support-and-pricing.mp3" length="31837696" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1988</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess talk about the marketing, support, and pricing behind our products.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess talk about the marketing, support, and pricing behind our products.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>22: Challenges when building products</title>
+      <itunes:episode>22</itunes:episode>
+      <podcast:episode>22</podcast:episode>
+      <itunes:title>22: Challenges when building products</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">8e83f83d-6331-44db-84d3-3362102ef4a4</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://basecamp.com/books/getting-real">Getting Real</a> by Basecamp</li><li><a href="https://basecodefieldguide.com/">BaseCode Field Guide</a> by JMac</li><li><a href="https://adamwathan.me/the-book-launch-that-let-me-quit-my-job/">The $61,392 Book Launch</a> by Adam Wathan</li><li><a href="https://christoph-rumpel.com/2019/07/the-book-launch-that-made-want-my-old-job-back">The €963 Book Launch</a> by Christoph Rumpel</li><li><a href="http://momtestbook.com/">The Mom Test</a> by Rob Fitzpatrick</li><li><a href="https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca">Jobs to be done</a></li><li><a href="https://nathanbarry.com/authority/">Authority</a> by Nathan Barry</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://basecamp.com/books/getting-real">Getting Real</a> by Basecamp</li><li><a href="https://basecodefieldguide.com/">BaseCode Field Guide</a> by JMac</li><li><a href="https://adamwathan.me/the-book-launch-that-let-me-quit-my-job/">The $61,392 Book Launch</a> by Adam Wathan</li><li><a href="https://christoph-rumpel.com/2019/07/the-book-launch-that-made-want-my-old-job-back">The €963 Book Launch</a> by Christoph Rumpel</li><li><a href="http://momtestbook.com/">The Mom Test</a> by Rob Fitzpatrick</li><li><a href="https://jtbd.info/2-what-is-jobs-to-be-done-jtbd-796b82081cca">Jobs to be done</a></li><li><a href="https://nathanbarry.com/authority/">Authority</a> by Nathan Barry</li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 14 Apr 2020 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/023-22-challenges-when-building-products.mp3" length="22347165" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1394</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess wrap-up this mini-series by discussing some of the challenges faced when building our own products.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess wrap-up this mini-series by discussing some of the challenges faced when building our own products.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>23: Catch up, level up</title>
+      <itunes:episode>23</itunes:episode>
+      <podcast:episode>23</podcast:episode>
+      <itunes:title>23: Catch up, level up</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">0ee5cdb9-afdd-4d34-90e8-563f1c6ac432</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laracon.net/">Laracon Online 2020</a></li><li><a href="https://basecamp.com/gettingreal/04.3-its-a-problem-when-its-a-problem">It's a problem when it's a problem</a></li><li><a href="https://baselaravel.com/">BaseLaravel</a></li><li><a href="https://twitter.com/youyuxi/status/986690949924507649">Tweet on boring code</a> from Evan You</li><li><a href="https://laravelupandrunning.com/">Laravel Up &amp; Running</a> by Matt Stauffer</li><li><a href="https://leanpub.com/laravel/">Laravel: From Apprentice to Artisan</a> by Taylor Otwell</li><li><a href="https://www.youtube.com/watch?v=NWYaM2sD-YI">Crafting maintainable Laravel applications</a> at Laracon AU</li><li><a href="https://basecodefieldguide.com/podcast/2-dead-code/">"Broken Windows Theory"</a> from <em>Dead Code</em></li><li><a href="https://laravelpodcast.com/episodes/the-ethos-of-laravel">"Painting the back of the cabinet"</a> from <em>The Ethos of Laravel</em></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laracon.net/">Laracon Online 2020</a></li><li><a href="https://basecamp.com/gettingreal/04.3-its-a-problem-when-its-a-problem">It's a problem when it's a problem</a></li><li><a href="https://baselaravel.com/">BaseLaravel</a></li><li><a href="https://twitter.com/youyuxi/status/986690949924507649">Tweet on boring code</a> from Evan You</li><li><a href="https://laravelupandrunning.com/">Laravel Up &amp; Running</a> by Matt Stauffer</li><li><a href="https://leanpub.com/laravel/">Laravel: From Apprentice to Artisan</a> by Taylor Otwell</li><li><a href="https://www.youtube.com/watch?v=NWYaM2sD-YI">Crafting maintainable Laravel applications</a> at Laracon AU</li><li><a href="https://basecodefieldguide.com/podcast/2-dead-code/">"Broken Windows Theory"</a> from <em>Dead Code</em></li><li><a href="https://laravelpodcast.com/episodes/the-ethos-of-laravel">"Painting the back of the cabinet"</a> from <em>The Ethos of Laravel</em></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 28 Jul 2020 09:15:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/024-23-catch-up-level-up.mp3" length="20074223" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1252</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess ease into a new mini-series by catching up, discussing how developers level-up, and topics for next episodes.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess ease into a new mini-series by catching up, discussing how developers level-up, and topics for next episodes.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>24: Demystifying Laravel's Container</title>
+      <itunes:episode>24</itunes:episode>
+      <podcast:episode>24</podcast:episode>
+      <itunes:title>24: Demystifying Laravel's Container</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6bde6399-93df-4ff9-b73a-7c936130a0ad</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li>Tweet: <a href="https://twitter.com/gonedark/status/1287447829817044998">Making a table to make tables</a></li><li><a href="https://www.instagram.com/lumberjmac/">LumberJMac</a> on Instagram</li><li>Tweet: <a href="https://twitter.com/abigailotwell/status/1280569290958274560">The Otwell Table</a></li><li><a href="https://laravel.com/docs/7.x/container">Laravel's Service Container</a></li><li><a href="https://laravel.com/docs/7.x/facades#facade-class-reference">Facade Class References</a></li><li><a href="https://basecodefieldguide.com/podcast/14-5-test-doubles/">Episode 14 - The 5 Test Doubles</a></li><li><a href="https://laravel.com/docs/7.x/providers#the-register-method">The bindings and singletons Properties</a></li><li><a href="https://github.com/laravel/framework/blob/7.x/src/Illuminate/Validation/ValidatesWhenResolvedTrait.php">ValidatesWhenResolvedTrait</a></li><li><a href="https://laravel.com/docs/7.x/validation#prepare-input-for-validation">The prepareForValidation method</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li>Tweet: <a href="https://twitter.com/gonedark/status/1287447829817044998">Making a table to make tables</a></li><li><a href="https://www.instagram.com/lumberjmac/">LumberJMac</a> on Instagram</li><li>Tweet: <a href="https://twitter.com/abigailotwell/status/1280569290958274560">The Otwell Table</a></li><li><a href="https://laravel.com/docs/7.x/container">Laravel's Service Container</a></li><li><a href="https://laravel.com/docs/7.x/facades#facade-class-reference">Facade Class References</a></li><li><a href="https://basecodefieldguide.com/podcast/14-5-test-doubles/">Episode 14 - The 5 Test Doubles</a></li><li><a href="https://laravel.com/docs/7.x/providers#the-register-method">The bindings and singletons Properties</a></li><li><a href="https://github.com/laravel/framework/blob/7.x/src/Illuminate/Validation/ValidatesWhenResolvedTrait.php">ValidatesWhenResolvedTrait</a></li><li><a href="https://laravel.com/docs/7.x/validation#prepare-input-for-validation">The prepareForValidation method</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 04 Aug 2020 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/025-24-demystifying-laravel-s-container.mp3" length="24929683" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1556</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss the Laravel Service Container with common mistakes, a few suggestions, and some streamlines.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss the Laravel Service Container with common mistakes, a few suggestions, and some streamlines.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>25: Illuminate your OOP</title>
+      <itunes:episode>25</itunes:episode>
+      <podcast:episode>25</podcast:episode>
+      <itunes:title>25: Illuminate your OOP</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">bfc19e40-3209-4702-b02d-2fe0edb30d43</guid>
+      <description>
+        <![CDATA[In this episode, JMac and Jess discuss some traditional object oriented programming practices which may or may not have a place within Laravel.]]>
+      </description>
+      <content:encoded>
+        <![CDATA[In this episode, JMac and Jess discuss some traditional object oriented programming practices which may or may not have a place within Laravel.]]>
+      </content:encoded>
+      <pubDate>Tue, 11 Aug 2020 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/026-25-illuminate-your-oop.mp3" length="27955687" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1745</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss some traditional object oriented programming practices which may or may not have a place within Laravel.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss some traditional object oriented programming practices which may or may not have a place within Laravel.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>26: Streamline your controllers</title>
+      <itunes:episode>26</itunes:episode>
+      <podcast:episode>26</podcast:episode>
+      <itunes:title>26: Streamline your controllers</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">89e33033-e368-46c1-9fd1-7b02d6268964</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://baselaravel.com/">BaseLaravel: a field guide for streamlining Laravel applications</a></li><li>Tweet: <a href="https://twitter.com/gonedark/status/1017887185230598145">Publishing an ebook</a></li><li><a href="https://jasonmccreary.me/articles/the-proximity-rule/">The Proximity Rule</a></li><li><a href="https://laravel.com/docs/7.x/requests#accessing-the-request">Accessing the Request</a></li><li><a href="https://www.simonholywell.com/post/2015/05/memoization-or-function-cache/">Memoization or function cache</a></li><li><a href="http://weblog.jamisbuck.org/2006/10/18/skinny-controller-fat-model">Fat Model, Skinny Controllers</a></li><li><a href="https://laravelshift.com/laravel-code-fixer">Automated streamlining with the Laravel Fixer</a></li><li><a href="https://pociot.dev/22-laravel-form-requests-more-than-validation">Form Requests for more than validation</a></li><li><a href="https://laravel.com/docs/7.x/validation#form-request-validation">Laravel's Form Request</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://baselaravel.com/">BaseLaravel: a field guide for streamlining Laravel applications</a></li><li>Tweet: <a href="https://twitter.com/gonedark/status/1017887185230598145">Publishing an ebook</a></li><li><a href="https://jasonmccreary.me/articles/the-proximity-rule/">The Proximity Rule</a></li><li><a href="https://laravel.com/docs/7.x/requests#accessing-the-request">Accessing the Request</a></li><li><a href="https://www.simonholywell.com/post/2015/05/memoization-or-function-cache/">Memoization or function cache</a></li><li><a href="http://weblog.jamisbuck.org/2006/10/18/skinny-controller-fat-model">Fat Model, Skinny Controllers</a></li><li><a href="https://laravelshift.com/laravel-code-fixer">Automated streamlining with the Laravel Fixer</a></li><li><a href="https://pociot.dev/22-laravel-form-requests-more-than-validation">Form Requests for more than validation</a></li><li><a href="https://laravel.com/docs/7.x/validation#form-request-validation">Laravel's Form Request</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 18 Aug 2020 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/027-26-streamline-your-controllers.mp3" length="24834784" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1550</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss generating ebooks and 3 ways to tidy up and streamline controllers in your Laravel applications</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss generating ebooks and 3 ways to tidy up and streamline controllers in your Laravel applications</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>27: Obese models and declarative code</title>
+      <itunes:episode>27</itunes:episode>
+      <podcast:episode>27</podcast:episode>
+      <itunes:title>27: Obese models and declarative code</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">36a7e392-976a-4f75-a2fa-5a18ff669be2</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.youtube.com/watch?v=Zv4bUXEwl20">The Laravel developer's guide to Vue SPAs</a> by Jess Archer</li><li><a href="https://adamwathan.me/2017/01/24/methods-are-affordances-not-abilities/">Methods Are Affordances, Not Abilities</a></li><li><a href="https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-programming">What is the difference between declarative and imperative programming?</a></li><li><em>Organizing your models</em> from <a href="https://baselaravel.com/">BaseLaravel</a></li><li><a href="https://github.com/tightenco/tlint">tlint - linter by Tighten</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.youtube.com/watch?v=Zv4bUXEwl20">The Laravel developer's guide to Vue SPAs</a> by Jess Archer</li><li><a href="https://adamwathan.me/2017/01/24/methods-are-affordances-not-abilities/">Methods Are Affordances, Not Abilities</a></li><li><a href="https://stackoverflow.com/questions/1784664/what-is-the-difference-between-declarative-and-imperative-programming">What is the difference between declarative and imperative programming?</a></li><li><em>Organizing your models</em> from <a href="https://baselaravel.com/">BaseLaravel</a></li><li><a href="https://github.com/tightenco/tlint">tlint - linter by Tighten</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 25 Aug 2020 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/028-27-obese-models-and-declarative-code.mp3" length="27556594" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1720</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss how we structure our models, especially when they become fat, and attempt to define declarative versus imperative code.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss how we structure our models, especially when they become fat, and attempt to define declarative versus imperative code.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>28: Modernizing your views</title>
+      <itunes:episode>28</itunes:episode>
+      <podcast:episode>28</podcast:episode>
+      <itunes:title>28: Modernizing your views</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">7fc73f76-a655-4a99-a49d-de84b8bd26d8</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laravelshift.com/">Laravel Shift</a></li><li><a href="https://github.com/laravel/laravel/compare/master...develop">laravel/laravel version diff</a></li><li><a href="https://baselaravel.com/">BaseLaravel</a></li><li><a href="https://laravel.com/docs/7.x/blade#stacks">@stack Blade Directive</a></li><li><a href="https://vueschool.io/articles/vuejs-tutorials/portal-a-new-feature-in-vue-3/">Portals in Vue 3</a></li><li><a href="https://laravel.com/docs/7.x/blade#including-subviews">@includeWhen Blade Directive</a></li><li><a href="https://laravel.com/docs/7.x/blade#rendering-views-for-collections">@each Blade Directive</a></li><li><a href="https://laravel.com/docs/7.x/blade#the-once-directive">@once Blade Directive</a></li><li>Tweet: <a href="https://twitter.com/gonedark/status/1285965047986962432">@if versus modern Blade directives comparison</a></li><li><a href="https://laravel.com/docs/7.x/blade#components">View Components</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laravelshift.com/">Laravel Shift</a></li><li><a href="https://github.com/laravel/laravel/compare/master...develop">laravel/laravel version diff</a></li><li><a href="https://baselaravel.com/">BaseLaravel</a></li><li><a href="https://laravel.com/docs/7.x/blade#stacks">@stack Blade Directive</a></li><li><a href="https://vueschool.io/articles/vuejs-tutorials/portal-a-new-feature-in-vue-3/">Portals in Vue 3</a></li><li><a href="https://laravel.com/docs/7.x/blade#including-subviews">@includeWhen Blade Directive</a></li><li><a href="https://laravel.com/docs/7.x/blade#rendering-views-for-collections">@each Blade Directive</a></li><li><a href="https://laravel.com/docs/7.x/blade#the-once-directive">@once Blade Directive</a></li><li>Tweet: <a href="https://twitter.com/gonedark/status/1285965047986962432">@if versus modern Blade directives comparison</a></li><li><a href="https://laravel.com/docs/7.x/blade#components">View Components</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 01 Sep 2020 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/029-28-modernizing-your-views.mp3" length="23023309" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1437</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss ways to modernize your views which make the code less complex and more readable.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss ways to modernize your views which make the code less complex and more readable.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>29: Additional Laravel Streamlines</title>
+      <itunes:episode>29</itunes:episode>
+      <podcast:episode>29</podcast:episode>
+      <itunes:title>29: Additional Laravel Streamlines</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">8ce6a2a0-022b-4411-a225-d7722622a588</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laracon.net/">Laracon 2020</a></li><li><a href="https://baselaravel.com/">BaseLaravel</a></li><li><a href="https://tighten.co/blog/the-magic-of-laravel-macros/">The Magic of Laravel Macros</a></li><li><a href="https://github.com/search?q=Macroable+repo%3Alaravel%2Fframework+path%3Asrc+language%3APHP+language%3APHP&amp;type=Code&amp;ref=advsearch&amp;l=PHP&amp;l=PHP">Macroable classes</a></li><li><a href="https://basecodefieldguide.com/podcast/9-rule-of-three/">Episode 9: Rule of Three</a></li><li><a href="https://laravel.com/docs/7.x/events">Events</a></li><li><a href="https://refactoring.guru/smells/lazy-class">Weak Class</a></li><li><a href="https://laravel.com/docs/7.x/eloquent-resources">Eloquent: API Resources</a></li><li><a href="https://guidelines.spatie.be/code-style/laravel-php">Spatie Style Guide</a></li><li><a href="https://style.dyrynda.com.au/">Dyrynda Style Guide</a></li><li><a href="https://basecodefieldguide.com/podcast/1-formatting/">Episode 1: Formatting</a></li><li><a href="https://laravel.com/docs/7.x/authorization">Gates and Policies</a></li><li><a href="https://github.com/laravel/jetstream">Laravel Jetstream</a></li><li><a href="https://www.youtube.com/watch?v=06--kezKc0Q">Expressive Eloquent Collections</a> by Tim McDonald</li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laracon.net/">Laracon 2020</a></li><li><a href="https://baselaravel.com/">BaseLaravel</a></li><li><a href="https://tighten.co/blog/the-magic-of-laravel-macros/">The Magic of Laravel Macros</a></li><li><a href="https://github.com/search?q=Macroable+repo%3Alaravel%2Fframework+path%3Asrc+language%3APHP+language%3APHP&amp;type=Code&amp;ref=advsearch&amp;l=PHP&amp;l=PHP">Macroable classes</a></li><li><a href="https://basecodefieldguide.com/podcast/9-rule-of-three/">Episode 9: Rule of Three</a></li><li><a href="https://laravel.com/docs/7.x/events">Events</a></li><li><a href="https://refactoring.guru/smells/lazy-class">Weak Class</a></li><li><a href="https://laravel.com/docs/7.x/eloquent-resources">Eloquent: API Resources</a></li><li><a href="https://guidelines.spatie.be/code-style/laravel-php">Spatie Style Guide</a></li><li><a href="https://style.dyrynda.com.au/">Dyrynda Style Guide</a></li><li><a href="https://basecodefieldguide.com/podcast/1-formatting/">Episode 1: Formatting</a></li><li><a href="https://laravel.com/docs/7.x/authorization">Gates and Policies</a></li><li><a href="https://github.com/laravel/jetstream">Laravel Jetstream</a></li><li><a href="https://www.youtube.com/watch?v=06--kezKc0Q">Expressive Eloquent Collections</a> by Tim McDonald</li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 08 Sep 2020 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/030-29-additional-laravel-streamlines.mp3" length="21838053" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1363</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss some of the additional ways outside of Models, Views, and Controllers to streamline your Laravel applications.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss some of the additional ways outside of Models, Views, and Controllers to streamline your Laravel applications.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>30: Laravel 8 Streamlines</title>
+      <itunes:episode>30</itunes:episode>
+      <podcast:episode>30</podcast:episode>
+      <itunes:title>30: Laravel 8 Streamlines</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">648e52a9-ed86-40aa-beb8-5eb4dd71e7c0</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laravel.com/docs/8.x/releases">Laravel 8 Release Notes</a></li><li><a href="https://www.vimconf.live/">Vimconf 2020</a></li><li><a href="https://caniupgradelaravelyet.com/">Can I upgrade Laravel yet?</a></li><li><a href="https://github.com/spatie/laravel-analytics/pull/366">Automated Laravel 8 compatibility PR</a></li><li><a href="https://laravel.com/docs/8.x/errors#reporting-exceptions">Handling exceptions in Laravel 8</a></li><li><a href="https://tighten.co/blog/tidy-up-your-tests-with-class-based-model-factories/">Tidy up your tests with class based model factories</a></li><li><a href="https://laravel.com/docs/8.x/database-testing#writing-factories">Laravel 8 model factory class</a></li><li><a href="https://laravel.com/docs/8.x/eloquent-relationships#custom-polymorphic-types">Mapping models with morphMap</a></li><li><a href="https://laravelshift.com/laravel-namespace-models">Namespace Models Shift</a></li><li><a href="https://laravel.com/docs/8.x/queues#queueing-closures">Queuing closures</a></li><li><a href="https://laravel.com/docs/8.x/queues#dealing-with-failed-jobs">Job retry exponential backoffs</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laravel.com/docs/8.x/releases">Laravel 8 Release Notes</a></li><li><a href="https://www.vimconf.live/">Vimconf 2020</a></li><li><a href="https://caniupgradelaravelyet.com/">Can I upgrade Laravel yet?</a></li><li><a href="https://github.com/spatie/laravel-analytics/pull/366">Automated Laravel 8 compatibility PR</a></li><li><a href="https://laravel.com/docs/8.x/errors#reporting-exceptions">Handling exceptions in Laravel 8</a></li><li><a href="https://tighten.co/blog/tidy-up-your-tests-with-class-based-model-factories/">Tidy up your tests with class based model factories</a></li><li><a href="https://laravel.com/docs/8.x/database-testing#writing-factories">Laravel 8 model factory class</a></li><li><a href="https://laravel.com/docs/8.x/eloquent-relationships#custom-polymorphic-types">Mapping models with morphMap</a></li><li><a href="https://laravelshift.com/laravel-namespace-models">Namespace Models Shift</a></li><li><a href="https://laravel.com/docs/8.x/queues#queueing-closures">Queuing closures</a></li><li><a href="https://laravel.com/docs/8.x/queues#dealing-with-failed-jobs">Job retry exponential backoffs</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 15 Sep 2020 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/031-30-laravel-8-streamlines.mp3" length="29829542" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1862</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess finish the mini-series on streamlining code within your Laravel applications by reviewing some of the new features in Laravel 8 which help you write less complex, more readable code.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess finish the mini-series on streamlining code within your Laravel applications by reviewing some of the new features in Laravel 8 which help you write less complex, more readable code.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>31: We're back, without much to say</title>
+      <itunes:episode>31</itunes:episode>
+      <podcast:episode>31</podcast:episode>
+      <itunes:title>31: We're back, without much to say</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">42d379f7-0746-4cf6-bfab-8ad17f3d0666</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://twitter.com/gonedark/status/1343966079576584193?s=20">Geek Dad Jokes with Izzy</a></li><li><a href="https://en.wikipedia.org/wiki/Timeboxing">Timeboxing</a></li><li><a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro Technique</a></li><li><a href="https://bulletjournal.com/pages/learn">What is Bullet Journaling?</a></li><li><a href="https://rocketlog.app/">Jess' side project</a></li><li><a href="https://spark.laravel.com/">Laravel Spark</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://twitter.com/gonedark/status/1343966079576584193?s=20">Geek Dad Jokes with Izzy</a></li><li><a href="https://en.wikipedia.org/wiki/Timeboxing">Timeboxing</a></li><li><a href="https://en.wikipedia.org/wiki/Pomodoro_Technique">Pomodoro Technique</a></li><li><a href="https://bulletjournal.com/pages/learn">What is Bullet Journaling?</a></li><li><a href="https://rocketlog.app/">Jess' side project</a></li><li><a href="https://spark.laravel.com/">Laravel Spark</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 02 Mar 2021 10:20:00 -0500</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/032-31-we-re-back-without-much-to-say.mp3" length="20346872" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1269</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess start up a new mini-series without too much direction. We catch up on life and side projects, and finish things off with some quick ideas on an architectural problem.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess start up a new mini-series without too much direction. We catch up on life and side projects, and finish things off with some quick ideas on an architectural problem.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>32: Accountabilibuddies, old code, and pairing styles</title>
+      <itunes:episode>32</itunes:episode>
+      <podcast:episode>32</podcast:episode>
+      <itunes:title>32: Accountabilibuddies, old code, and pairing styles</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">f5808957-47fd-4368-80f8-1e5f6fc9a82f</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://en.wikipedia.org/wiki/Extreme_programming">Extreme Programming</a></li><li><a href="https://en.wikipedia.org/wiki/Pair_programming">Pair Programming</a></li><li><a href="https://github.com/jessarcher/dotfiles/blob/master/gitconfig">Jess's git aliases</a></li><li><a href="https://github.com/jasonmccreary/dotfiles">JMac's dotfiles</a></li><li><a href="https://laravel-news.com/bash-aliases">Laravel shell aliases</a> (including <em>nah</em> and <em>mfs</em>)</li><li><a href="https://github.com/laravel/framework/pull/36513">Pull Request for <em>db:seed</em></a></li><li><a href="https://en.wikipedia.org/wiki/Whipper_snipper">Whipper Snipper</a></li><li><a href="https://www.youtube.com/c/AdamWathan/playlists">Adam Wathan's Tailwind live-streams</a></li><li><a href="https://www.youtube.com/watch?v=sMYmZjfqPN0&amp;t=2960s">Building a service container from scratch</a> (Jess's live-coding talk)</li><li><a href="https://thoughtbot.com/upcase/videos/red-green-refactor-by-example">Red-Green-Refactor calculator TDD example</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://en.wikipedia.org/wiki/Extreme_programming">Extreme Programming</a></li><li><a href="https://en.wikipedia.org/wiki/Pair_programming">Pair Programming</a></li><li><a href="https://github.com/jessarcher/dotfiles/blob/master/gitconfig">Jess's git aliases</a></li><li><a href="https://github.com/jasonmccreary/dotfiles">JMac's dotfiles</a></li><li><a href="https://laravel-news.com/bash-aliases">Laravel shell aliases</a> (including <em>nah</em> and <em>mfs</em>)</li><li><a href="https://github.com/laravel/framework/pull/36513">Pull Request for <em>db:seed</em></a></li><li><a href="https://en.wikipedia.org/wiki/Whipper_snipper">Whipper Snipper</a></li><li><a href="https://www.youtube.com/c/AdamWathan/playlists">Adam Wathan's Tailwind live-streams</a></li><li><a href="https://www.youtube.com/watch?v=sMYmZjfqPN0&amp;t=2960s">Building a service container from scratch</a> (Jess's live-coding talk)</li><li><a href="https://thoughtbot.com/upcase/videos/red-green-refactor-by-example">Red-Green-Refactor calculator TDD example</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 09 Mar 2021 10:13:19 -0500</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/033-32-accountabilibuddies-old-code-and-pairing-styles.mp3" length="31383555" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1959</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess talk about some of their recent pairing sessions, the code they worked on, and how we differ in our programming styles. With a few command aliases and Australianisms to boot.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess talk about some of their recent pairing sessions, the code they worked on, and how we differ in our programming styles. With a few command aliases and Australianisms to boot.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>33: Approaching technical challenges</title>
+      <itunes:episode>33</itunes:episode>
+      <podcast:episode>33</podcast:episode>
+      <itunes:title>33: Approaching technical challenges</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6f1106ff-eb79-4b8d-9fc5-70202e77c4dd</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.westsixth.com/amber">West Sixth Brewing Amber Ale</a></li><li><a href="https://laravelshift.com/shifts?category=tailwind">Tailwind Shifts</a></li><li><a href="https://twitter.com/marcuspoehls/status/1367397033133436928">Tweet from Marcus Poehls</a></li><li><a href="https://tailwindcss.com/docs/configuration">Tailwind Configuration</a></li><li><a href="https://github.com/acornjs/acorn">Acorn JavaScript parser</a></li><li><a href="https://github.com/yiisoft/yii/blob/master/framework/web/helpers/CJSON.php">Yii's CJSON class</a></li><li><a href="https://json5.org/">JSON5</a></li><li><a href="https://komkom.github.io/">jsonc</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.westsixth.com/amber">West Sixth Brewing Amber Ale</a></li><li><a href="https://laravelshift.com/shifts?category=tailwind">Tailwind Shifts</a></li><li><a href="https://twitter.com/marcuspoehls/status/1367397033133436928">Tweet from Marcus Poehls</a></li><li><a href="https://tailwindcss.com/docs/configuration">Tailwind Configuration</a></li><li><a href="https://github.com/acornjs/acorn">Acorn JavaScript parser</a></li><li><a href="https://github.com/yiisoft/yii/blob/master/framework/web/helpers/CJSON.php">Yii's CJSON class</a></li><li><a href="https://json5.org/">JSON5</a></li><li><a href="https://komkom.github.io/">jsonc</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 16 Mar 2021 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/034-33-approaching-technical-challenges.mp3" length="28303975" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1767</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess answer a question from the audience on how we approach technical challenges by discussing our approach to parsing and manipulating the Tailwind configuration file.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess answer a question from the audience on how we approach technical challenges by discussing our approach to parsing and manipulating the Tailwind configuration file.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>34: Testing Tailwind Shifts</title>
+      <itunes:episode>34</itunes:episode>
+      <podcast:episode>34</podcast:episode>
+      <itunes:title>34: Testing Tailwind Shifts</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a0dc1429-7d71-4544-b006-58797516e163</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.youtube.com/watch?v=IXe3rEWrDVg"><strong>Lighting for YouTube Videos</strong></a></li><li><a href="https://twitter.com/joaoecoceanus/status/1367220581037465600?s=20"><strong>Question from João Santos</strong></a></li><li><a href="https://laravelshift.com/shifts?category=tailwind"><strong>Tailwind Shifts</strong></a></li><li><a href="https://basecodefieldguide.com/podcast/14-5-test-doubles/"><strong>Episode 14 - The 5 Test Doubles</strong></a></li><li><a href="https://laravel.com/docs/8.x/facades"><strong>Laravel Facades</strong></a></li><li><a href="http://docs.mockery.io/en/latest/reference/demeter_chains.html"><strong>Mocking fluent interfaces with Mockery</strong></a></li><li><a href="https://en.wikipedia.org/wiki/Test_fixture"><strong>Test Fixtures</strong></a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.youtube.com/watch?v=IXe3rEWrDVg"><strong>Lighting for YouTube Videos</strong></a></li><li><a href="https://twitter.com/joaoecoceanus/status/1367220581037465600?s=20"><strong>Question from João Santos</strong></a></li><li><a href="https://laravelshift.com/shifts?category=tailwind"><strong>Tailwind Shifts</strong></a></li><li><a href="https://basecodefieldguide.com/podcast/14-5-test-doubles/"><strong>Episode 14 - The 5 Test Doubles</strong></a></li><li><a href="https://laravel.com/docs/8.x/facades"><strong>Laravel Facades</strong></a></li><li><a href="http://docs.mockery.io/en/latest/reference/demeter_chains.html"><strong>Mocking fluent interfaces with Mockery</strong></a></li><li><a href="https://en.wikipedia.org/wiki/Test_fixture"><strong>Test Fixtures</strong></a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 23 Mar 2021 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/035-34-testing-tailwind-shifts.mp3" length="27430439" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1712</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess answer another question from a listener on testing by discussing how we write tests for Shift and testing techniques we use when writing tests for the new Tailwind Shifts.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess answer another question from a listener on testing by discussing how we write tests for Shift and testing techniques we use when writing tests for the new Tailwind Shifts.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>35: Scattershot Q&amp;A</title>
+      <itunes:episode>35</itunes:episode>
+      <podcast:episode>35</podcast:episode>
+      <itunes:title>35: Scattershot Q&amp;A</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">19dbfe38-809f-470d-939e-bc1421eadc92</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://notjustcute.com/2010/07/20/speak-up-why-we-should-use-big-words-with-little-kids/">Speak UP! Why We Should Use Big Words With Little Kids</a></li><li><a href="https://www.imdb.com/title/tt0096320/">Twins (1988)</a></li><li><a href="https://twitter.com/marc_hampson/status/1374498295444250629">Marc - Converting Bootstrap CSS project to Tailwind</a></li><li><a href="https://laravelshift.com/convert-bootstrap-to-tailwind-css">Tailwind Converter Shift</a></li><li><a href="https://twitter.com/devinhyden/status/1374499814721785864">Devin - Laravel security hardening</a></li><li><a href="https://www.laravel-enlightn.com/">Enlightn: Boost your Laravel App's Performance &amp; Security</a></li><li><a href="https://github.com/spatie/laravel-backup">spatie/backup package</a></li><li><a href="https://twitter.com/michaeldyrynda/status/1374510488520777731">Dyrynda - Time Travel</a></li><li><a href="https://laravel.com/docs/8.x/mocking#interacting-with-time">Laravel Time Traveling</a></li><li><a href="https://carbon.nesbot.com/docs/#api-testing">Testing with Carbon</a></li><li><a href="https://www.imdb.com/title/tt0088763/">Back to the Future (1985)</a></li><li><a href="https://www.imdb.com/title/tt4154796/">Avengers: Endgame (2019)</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://notjustcute.com/2010/07/20/speak-up-why-we-should-use-big-words-with-little-kids/">Speak UP! Why We Should Use Big Words With Little Kids</a></li><li><a href="https://www.imdb.com/title/tt0096320/">Twins (1988)</a></li><li><a href="https://twitter.com/marc_hampson/status/1374498295444250629">Marc - Converting Bootstrap CSS project to Tailwind</a></li><li><a href="https://laravelshift.com/convert-bootstrap-to-tailwind-css">Tailwind Converter Shift</a></li><li><a href="https://twitter.com/devinhyden/status/1374499814721785864">Devin - Laravel security hardening</a></li><li><a href="https://www.laravel-enlightn.com/">Enlightn: Boost your Laravel App's Performance &amp; Security</a></li><li><a href="https://github.com/spatie/laravel-backup">spatie/backup package</a></li><li><a href="https://twitter.com/michaeldyrynda/status/1374510488520777731">Dyrynda - Time Travel</a></li><li><a href="https://laravel.com/docs/8.x/mocking#interacting-with-time">Laravel Time Traveling</a></li><li><a href="https://carbon.nesbot.com/docs/#api-testing">Testing with Carbon</a></li><li><a href="https://www.imdb.com/title/tt0088763/">Back to the Future (1985)</a></li><li><a href="https://www.imdb.com/title/tt4154796/">Avengers: Endgame (2019)</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 30 Mar 2021 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/036-35-scattershot-q-a.mp3" length="26477816" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1653</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess answer several questions from the audience to discuss a broad range of topics from using Shifts, testing, security, and time travel.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess answer several questions from the audience to discuss a broad range of topics from using Shifts, testing, security, and time travel.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>36: Refactoring the Shifty bits</title>
+      <itunes:episode>36</itunes:episode>
+      <podcast:episode>36</podcast:episode>
+      <itunes:title>36: Refactoring the Shifty bits</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">dc461ec7-b9ec-4a10-9a22-5f6a80d9ead4</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://twitter.com/Caneco/status/1377251172365570058?s=20">Burpril Challenge by Caneco</a></li><li><a href="https://en.wikipedia.org/wiki/Code_refactoring">Code Refactoring on Wikipedia</a></li><li><a href="https://martinfowler.com/books/refactoring.html">Refactoring by Martin Fowler</a></li><li><a href="https://en.wikipedia.org/wiki/Decomposition_(computer_science)">Decomposition on Wikipedia</a></li><li><a href="https://stackoverflow.com/a/23444086/164998">Decomposition vs Abstraction</a></li><li><a href="https://basecodefieldguide.com/podcast/9-rule-of-three/">Episode 9: Rule of Three</a></li><li><a href="https://www.youtube.com/playlist?list=PLmwAMIdrAmK7FKoDXoG2dAfRHtXq_WC1x">Refactor Fridays Live Streams on YouTube</a></li><li><a href="https://tekin.co.uk/2021/01/how-atomic-commits-make-you-a-better-coder">Atomic Commits</a></li><li><a href="https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/">Key points of Working Effectively with Legacy Code</a></li><li><a href="https://basecodefieldguide.com/podcast/6-make-naming-things-easy/">Episode 6: Naming</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://twitter.com/Caneco/status/1377251172365570058?s=20">Burpril Challenge by Caneco</a></li><li><a href="https://en.wikipedia.org/wiki/Code_refactoring">Code Refactoring on Wikipedia</a></li><li><a href="https://martinfowler.com/books/refactoring.html">Refactoring by Martin Fowler</a></li><li><a href="https://en.wikipedia.org/wiki/Decomposition_(computer_science)">Decomposition on Wikipedia</a></li><li><a href="https://stackoverflow.com/a/23444086/164998">Decomposition vs Abstraction</a></li><li><a href="https://basecodefieldguide.com/podcast/9-rule-of-three/">Episode 9: Rule of Three</a></li><li><a href="https://www.youtube.com/playlist?list=PLmwAMIdrAmK7FKoDXoG2dAfRHtXq_WC1x">Refactor Fridays Live Streams on YouTube</a></li><li><a href="https://tekin.co.uk/2021/01/how-atomic-commits-make-you-a-better-coder">Atomic Commits</a></li><li><a href="https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/">Key points of Working Effectively with Legacy Code</a></li><li><a href="https://basecodefieldguide.com/podcast/6-make-naming-things-easy/">Episode 6: Naming</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 06 Apr 2021 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/037-36-refactoring-the-shifty-bits.mp3" length="21171042" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1321</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess talk discuss some refactoring during a recent pairing session with a focus on small iterations, honoring the tests, and a debate on naming things. </itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess talk discuss some refactoring during a recent pairing session with a focus on small iterations, honoring the tests, and a debate on naming things. </itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>37: It takes what it takes</title>
+      <itunes:episode>37</itunes:episode>
+      <podcast:episode>37</podcast:episode>
+      <itunes:title>37: It takes what it takes</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">4c5176be-4e30-43eb-a214-9d797f8c76d2</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://twitter.com/laravelshift/status/1410297134595948546">Shift Workbench Desktop app alpha release</a></li><li><a href="https://twitter.com/aarondfrancis/status/1397647315217829894">Tweet about 90% is halfway done</a></li><li><a href="https://www.youtube.com/watch?v=rpE3Z62FHaY">Practicing YAGNI</a> by JMac</li><li><a href="https://thedecisionlab.com/biases/the-sunk-cost-fallacy/">Sunk Cost Fallacy</a></li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li></ul><p><br></p>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://twitter.com/laravelshift/status/1410297134595948546">Shift Workbench Desktop app alpha release</a></li><li><a href="https://twitter.com/aarondfrancis/status/1397647315217829894">Tweet about 90% is halfway done</a></li><li><a href="https://www.youtube.com/watch?v=rpE3Z62FHaY">Practicing YAGNI</a> by JMac</li><li><a href="https://thedecisionlab.com/biases/the-sunk-cost-fallacy/">Sunk Cost Fallacy</a></li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li></ul><p><br></p>]]>
+      </content:encoded>
+      <pubDate>Tue, 06 Jul 2021 10:35:25 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/038-37-it-takes-what-it-takes.mp3" length="16625288" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1037</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess continue our mini-series on working together building new projects. This time we talk about building the new Shift Workbench desktop app.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess continue our mini-series on working together building new projects. This time we talk about building the new Shift Workbench desktop app.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>38: Building the Electron app</title>
+      <itunes:episode>38</itunes:episode>
+      <podcast:episode>38</podcast:episode>
+      <itunes:title>38: Building the Electron app</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">cbe1792c-7e65-4108-8d51-ba3fd7a740e0</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://desktopappswithelectron.com/">Desktop Apps with Electron</a> by Marcel Pociot</li><li><a href="https://www.electron.build/">Electron Builder</a></li><li><a href="https://nklayman.github.io/vue-cli-plugin-electron-builder/">Vue Electron Builder</a></li><li><a href="https://alpinejs.dev/">Alpine.js</a></li><li><a href="https://vuejs.org/">Vue.js</a></li><li><a href="https://en.wikipedia.org/wiki/Boiling_frog">Fable of the boiling frog</a></li><li><a href="https://www.electronjs.org/docs/glossary#ipc">IPC in Electron</a></li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://desktopappswithelectron.com/">Desktop Apps with Electron</a> by Marcel Pociot</li><li><a href="https://www.electron.build/">Electron Builder</a></li><li><a href="https://nklayman.github.io/vue-cli-plugin-electron-builder/">Vue Electron Builder</a></li><li><a href="https://alpinejs.dev/">Alpine.js</a></li><li><a href="https://vuejs.org/">Vue.js</a></li><li><a href="https://en.wikipedia.org/wiki/Boiling_frog">Fable of the boiling frog</a></li><li><a href="https://www.electronjs.org/docs/glossary#ipc">IPC in Electron</a></li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 13 Jul 2021 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/039-38-building-the-electron-app.mp3" length="22356664" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1395</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess go behind the screens on how we build the Shift Workbench desktop app using Electron.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess go behind the screens on how we build the Shift Workbench desktop app using Electron.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>39: Open source is not free</title>
+      <itunes:episode>39</itunes:episode>
+      <podcast:episode>39</podcast:episode>
+      <itunes:title>39: Open source is not free</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">c3abb802-d1cd-44cf-b522-44f4d9e295e9</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://blog.laravel.com/laravel-9-release-date">Laravel 9 Release</a></li><li><a href="https://en.wikipedia.org/wiki/Abstract_syntax_tree">Abstract Syntax Tree</a></li><li><a href="https://github.com/rectorphp/rector">Rector</a></li><li><a href="https://github.com/nikic/PHP-Parser">Nikic PHP Parser</a></li><li><a href="https://github.com/laravel-shift/blueprint">Shift Blueprint</a></li><li><a href="https://gettinggit.com/">Getting Git</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://blog.laravel.com/laravel-9-release-date">Laravel 9 Release</a></li><li><a href="https://en.wikipedia.org/wiki/Abstract_syntax_tree">Abstract Syntax Tree</a></li><li><a href="https://github.com/rectorphp/rector">Rector</a></li><li><a href="https://github.com/nikic/PHP-Parser">Nikic PHP Parser</a></li><li><a href="https://github.com/laravel-shift/blueprint">Shift Blueprint</a></li><li><a href="https://gettinggit.com/">Getting Git</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 20 Jul 2021 09:12:28 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/040-39-open-source-is-not-free.mp3" length="21061844" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1314</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss some of the open source tools used by the Workbench, our gripes, and how to contribute.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss some of the open source tools used by the Workbench, our gripes, and how to contribute.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>40: Pricing is a personal choice</title>
+      <itunes:episode>40</itunes:episode>
+      <podcast:episode>40</podcast:episode>
+      <itunes:title>40: Pricing is a personal choice</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6f9cedd6-ba98-4609-8e79-a0325a5fc11d</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://en.wikipedia.org/wiki/7-Eleven">7-Eleven Convenient Stores</a></li><li><a href="https://github.com/laravel/framework/pull/38025">PR #38025: Display exception for failed status assertions</a> by Taylor Otwell</li><li><a href="https://github.com/laravel/framework/pull/38046">PR #38046: Display exception for failed validation assertions</a> by Jess</li><li><a href="https://jasonmccreary.me/articles/changes-to-streamline-laravel/">Streamlining Laravel</a> by JMac</li><li><a href="https://github.com/laravel/framework/blob/8.x/src/Illuminate/Foundation/Testing/Concerns/MakesHttpRequests.php#L275">Setting from URL in HTTP tests</a></li><li>Tweet about <a href="https://twitter.com/gonedark/status/1395426871026798592">pricing</a> by JMac</li><li><a href="https://hbr.org/2009/09/value-propositions-that-work.html">Value Propositions That Work</a></li><li><a href="https://laravelshift.com/human-shifts">Human Shifts</a></li><li>Tweet about <a href="https://twitter.com/seb_sebsn/status/1412128232451842059">discounted launch prices</a> by Sebastian Schlein</li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li><li><a href="https://laravelshift.com/shifty-plans">Shifty Plans</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://en.wikipedia.org/wiki/7-Eleven">7-Eleven Convenient Stores</a></li><li><a href="https://github.com/laravel/framework/pull/38025">PR #38025: Display exception for failed status assertions</a> by Taylor Otwell</li><li><a href="https://github.com/laravel/framework/pull/38046">PR #38046: Display exception for failed validation assertions</a> by Jess</li><li><a href="https://jasonmccreary.me/articles/changes-to-streamline-laravel/">Streamlining Laravel</a> by JMac</li><li><a href="https://github.com/laravel/framework/blob/8.x/src/Illuminate/Foundation/Testing/Concerns/MakesHttpRequests.php#L275">Setting from URL in HTTP tests</a></li><li>Tweet about <a href="https://twitter.com/gonedark/status/1395426871026798592">pricing</a> by JMac</li><li><a href="https://hbr.org/2009/09/value-propositions-that-work.html">Value Propositions That Work</a></li><li><a href="https://laravelshift.com/human-shifts">Human Shifts</a></li><li>Tweet about <a href="https://twitter.com/seb_sebsn/status/1412128232451842059">discounted launch prices</a> by Sebastian Schlein</li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li><li><a href="https://laravelshift.com/shifty-plans">Shifty Plans</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 27 Jul 2021 09:08:42 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/041-40-pricing-is-a-personal-choice.mp3" length="24512937" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1530</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess talk about launching the Workbench desktop app with a focus on pricing, discounts, and value.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess talk about launching the Workbench desktop app with a focus on pricing, discounts, and value.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>41: The little things no one notices</title>
+      <itunes:episode>41</itunes:episode>
+      <podcast:episode>41</podcast:episode>
+      <itunes:title>41: The little things no one notices</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">27d3be63-8f50-4bb5-b7f3-53041e4df986</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://twitter.com/jessarchercodes/status/1420601858104598534">Arduino auto clicker</a> by Jess</li><li><a href="https://twitter.com/jessarchercodes/status/1421318653799059456">Laravel dragon sticker</a> from Yaz</li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li><li><a href="https://www.youtube.com/watch?v=GCQ7ZBIw4HM">Dark mode for Invoker</a> by Di</li><li>Tweet about <a href="https://twitter.com/nuernberger_me/status/1406496059581505543">treehouse coding</a> by Adrian Nürnberger</li><li><a href="https://www.freecodecamp.org/news/vim-editor-modes-explained/">Modes in Vim</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://twitter.com/jessarchercodes/status/1420601858104598534">Arduino auto clicker</a> by Jess</li><li><a href="https://twitter.com/jessarchercodes/status/1421318653799059456">Laravel dragon sticker</a> from Yaz</li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li><li><a href="https://www.youtube.com/watch?v=GCQ7ZBIw4HM">Dark mode for Invoker</a> by Di</li><li>Tweet about <a href="https://twitter.com/nuernberger_me/status/1406496059581505543">treehouse coding</a> by Adrian Nürnberger</li><li><a href="https://www.freecodecamp.org/news/vim-editor-modes-explained/">Modes in Vim</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 03 Aug 2021 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/042-41-the-little-things-no-one-notices.mp3" length="18720939" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1168</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss the little features we built into the Workbench desktop app like onboarding screens, keyboard shortcuts, and Editor Mode.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss the little features we built into the Workbench desktop app like onboarding screens, keyboard shortcuts, and Editor Mode.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>42: The answers to everything</title>
+      <itunes:episode>42</itunes:episode>
+      <podcast:episode>42</podcast:episode>
+      <itunes:title>42: The answers to everything</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a19d3a00-0f8c-4f5b-9247-6c0672785f4a</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe">Marvel Cinematic Universe</a></li><li><a href="https://jasonmccreary.me/articles/laravel-numbers/">Laravel by the Numbers</a></li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li><li><a href="https://www.electron.build/auto-update">Electron: Auto Update</a></li><li><a href="https://www.electron.build/configuration/publish">Electron: Publish</a></li><li><a href="https://www.electron.build/code-signing">Electron: Code Signing</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe">Marvel Cinematic Universe</a></li><li><a href="https://jasonmccreary.me/articles/laravel-numbers/">Laravel by the Numbers</a></li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li><li><a href="https://www.electron.build/auto-update">Electron: Auto Update</a></li><li><a href="https://www.electron.build/configuration/publish">Electron: Publish</a></li><li><a href="https://www.electron.build/code-signing">Electron: Code Signing</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 10 Aug 2021 09:12:42 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/043-42-the-answers-to-everything.mp3" length="23418404" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1461</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess round out the mini-series on building the Workbench desktop app by answering questions about our development, deployment, and publishing processes.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess round out the mini-series on building the Workbench desktop app by answering questions about our development, deployment, and publishing processes.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>43: Old and Shifty Milestones</title>
+      <itunes:episode>43</itunes:episode>
+      <podcast:episode>43</podcast:episode>
+      <itunes:title>43: Old and Shifty Milestones</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">a59624ee-3726-4bff-8800-0bb6f214cd4b</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.youtube.com/watch?v=mH7cgoX3K0g">Trailer: Laravel Documentary</a></li><li><a href="https://www.offerzen.com/community/laravel-origins-documentary">Laravel Origins Premier</a></li><li><a href="https://jasonmccreary.me/articles/grinding-to-million-dollar-revenue-saas/">Grinding to $1,000,000 in revenue</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.youtube.com/watch?v=mH7cgoX3K0g">Trailer: Laravel Documentary</a></li><li><a href="https://www.offerzen.com/community/laravel-origins-documentary">Laravel Origins Premier</a></li><li><a href="https://jasonmccreary.me/articles/grinding-to-million-dollar-revenue-saas/">Grinding to $1,000,000 in revenue</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 01 Feb 2022 09:15:36 -0500</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/044-43-old-and-shifty-milestones.mp3" length="15510179" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>967</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess start up a new mini-series on refactoring the testing layer within Shift, but first recap a few of the milestones over the last 6 months.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess start up a new mini-series on refactoring the testing layer within Shift, but first recap a few of the milestones over the last 6 months.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>44: Testing should be frictionless</title>
+      <itunes:episode>44</itunes:episode>
+      <podcast:episode>44</podcast:episode>
+      <itunes:title>44: Testing should be frictionless</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">4cff68ff-7a82-4230-b767-f997c2da933e</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://github.com/laravel/framework/pull/40678">Pull Request for default model <em>orderBy</em></a></li><li><a href="https://basecodefieldguide.com/podcast/14-5-test-doubles/">Episode 14: The 5 Test Doubles</a></li><li><a href="https://laravelshift.com/shifts?category=tailwind">Tailwind Shifts</a></li><li><a href="https://laravelshift.com/ci-generator">CI Generator</a></li><li><a href="https://laravelshift.com/phpunit-to-pest-converter">Pest Converter</a></li><li><a href="https://blog.codinghorror.com/sharpening-the-saw/">Sharpening the saw</a></li><li><a href="https://rubyonrails.org/doctrine#provide-sharp-knives">Sharp knives</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://github.com/laravel/framework/pull/40678">Pull Request for default model <em>orderBy</em></a></li><li><a href="https://basecodefieldguide.com/podcast/14-5-test-doubles/">Episode 14: The 5 Test Doubles</a></li><li><a href="https://laravelshift.com/shifts?category=tailwind">Tailwind Shifts</a></li><li><a href="https://laravelshift.com/ci-generator">CI Generator</a></li><li><a href="https://laravelshift.com/phpunit-to-pest-converter">Pest Converter</a></li><li><a href="https://blog.codinghorror.com/sharpening-the-saw/">Sharpening the saw</a></li><li><a href="https://rubyonrails.org/doctrine#provide-sharp-knives">Sharp knives</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 08 Feb 2022 08:10:00 -0500</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/045-44-testing-should-be-frictionless.mp3" length="21761894" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1358</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discussion the motivation behind refactoring the testing layer for Shift.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discussion the motivation behind refactoring the testing layer for Shift.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>45: Snapshot fixture integration testing</title>
+      <itunes:episode>45</itunes:episode>
+      <podcast:episode>45</podcast:episode>
+      <itunes:title>45: Snapshot fixture integration testing</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e8f16684-a9a7-4308-8e91-346c3d300e4e</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li>Example Pull Request for <a href="https://github.com/laracasts/flash/pull/173">Laravel 9.x Compatibility</a></li><li><a href="https://caniupgradelaravel.com/">Can I upgrade Laravel</a></li><li><a href="https://laravelshift.com/upgrade-laravel-8-to-laravel-9">Laravel 9.x Shift</a></li><li><a href="https://wiki.c2.com/?WishfulThinking">Programming by wishful thinking</a></li><li><a href="https://automationpanda.com/2020/07/07/arrange-act-assert-a-pattern-for-writing-good-tests/">Arrange, Act, Assert</a></li><li><a href="https://www.sitepen.com/blog/snapshot-testing-benefits-and-drawbacks">Snapshot Testing</a></li><li><a href="https://en.wikipedia.org/wiki/Test_fixture#Software">Test Fixtures</a></li><li>Tweet about <a href="https://twitter.com/gonedark/status/1476558603213492230">InteractsWithProject trait</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li>Example Pull Request for <a href="https://github.com/laracasts/flash/pull/173">Laravel 9.x Compatibility</a></li><li><a href="https://caniupgradelaravel.com/">Can I upgrade Laravel</a></li><li><a href="https://laravelshift.com/upgrade-laravel-8-to-laravel-9">Laravel 9.x Shift</a></li><li><a href="https://wiki.c2.com/?WishfulThinking">Programming by wishful thinking</a></li><li><a href="https://automationpanda.com/2020/07/07/arrange-act-assert-a-pattern-for-writing-good-tests/">Arrange, Act, Assert</a></li><li><a href="https://www.sitepen.com/blog/snapshot-testing-benefits-and-drawbacks">Snapshot Testing</a></li><li><a href="https://en.wikipedia.org/wiki/Test_fixture#Software">Test Fixtures</a></li><li>Tweet about <a href="https://twitter.com/gonedark/status/1476558603213492230">InteractsWithProject trait</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 15 Feb 2022 08:00:00 -0500</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/046-45-snapshot-fixture-integration-testing.mp3" length="28843443" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1800</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess describe the new testing strategy we adopted within the Shift codebase to make it more frictionless.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess describe the new testing strategy we adopted within the Shift codebase to make it more frictionless.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>46: Bugs and Boundary Cases</title>
+      <itunes:episode>46</itunes:episode>
+      <podcast:episode>46</podcast:episode>
+      <itunes:title>46: Bugs and Boundary Cases</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">ce9400a4-4e45-449e-8bf1-dc75268bbceb</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laravelshift.com/upgrade-laravel-8-to-laravel-9">Laravel 9.x Shift</a></li><li><a href="https://laravel.com/docs/9.x/upgrade">Laravel Upgrade Guide</a></li><li><a href="https://shiftybits.news/update-laravel-9-1/">Shifty Bits Newsletter #82</a></li><li><a href="https://freek.dev/1210-a-better-way-to-register-routes-in-laravel">Class based routes</a> in Laravel</li><li><a href="https://basecodefieldguide.com/podcast/2-dead-code/">Episode 2: Dead Code</a> of The BaseCode Podcast</li><li><a href="https://laravelshift.com/videos/shift-code-style">Configuring the code style applied by Shift</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laravelshift.com/upgrade-laravel-8-to-laravel-9">Laravel 9.x Shift</a></li><li><a href="https://laravel.com/docs/9.x/upgrade">Laravel Upgrade Guide</a></li><li><a href="https://shiftybits.news/update-laravel-9-1/">Shifty Bits Newsletter #82</a></li><li><a href="https://freek.dev/1210-a-better-way-to-register-routes-in-laravel">Class based routes</a> in Laravel</li><li><a href="https://basecodefieldguide.com/podcast/2-dead-code/">Episode 2: Dead Code</a> of The BaseCode Podcast</li><li><a href="https://laravelshift.com/videos/shift-code-style">Configuring the code style applied by Shift</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 22 Feb 2022 09:00:00 -0500</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/047-46-bugs-and-boundary-cases.mp3" length="26767019" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1671</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss how using the new testing layer revealed so many bugs and boundary cases within the core Shift codebase.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss how using the new testing layer revealed so many bugs and boundary cases within the core Shift codebase.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>47: Tradeoffs of the new testing layer</title>
+      <itunes:episode>47</itunes:episode>
+      <podcast:episode>47</podcast:episode>
+      <itunes:title>47: Tradeoffs of the new testing layer</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">6c28af20-83fb-4440-865e-97d294c66770</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://en.wikipedia.org/wiki/Frequency_illusion">Frequency illusion</a></li><li><a href="https://www.pagani.com/zonda-r/">Pagani Zonda</a></li><li>Tweet using the term <a href="https://twitter.com/taylorotwell/status/1492145555086229508">nonda</a></li><li><a href="https://github.com/laravel-shift/laravel-9.x">Shift's Laravel 9.x repository</a></li><li><a href="https://github.com/laravel/laravel/compare/v8.0.0...9.x">GitHub comparison tool</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://en.wikipedia.org/wiki/Frequency_illusion">Frequency illusion</a></li><li><a href="https://www.pagani.com/zonda-r/">Pagani Zonda</a></li><li>Tweet using the term <a href="https://twitter.com/taylorotwell/status/1492145555086229508">nonda</a></li><li><a href="https://github.com/laravel-shift/laravel-9.x">Shift's Laravel 9.x repository</a></li><li><a href="https://github.com/laravel/laravel/compare/v8.0.0...9.x">GitHub comparison tool</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 01 Mar 2022 09:00:00 -0500</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/048-47-tradeoffs-of-the-new-testing-layer.mp3" length="20581179" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1284</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess discuss some of the tradeoffs we made to adopt the new testing layer for Shift.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess discuss some of the tradeoffs we made to adopt the new testing layer for Shift.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>48: Reviewing the Laravel 9.x Shift and new testing layer</title>
+      <itunes:episode>48</itunes:episode>
+      <podcast:episode>48</podcast:episode>
+      <itunes:title>48: Reviewing the Laravel 9.x Shift and new testing layer</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">1e07d118-7092-4872-80b7-58800480af6e</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.offerzen.com/community/laravel-origins-documentary">Laravel Origins Documentary</a></li><li><a href="https://youtu.be/ePuYUCnuOvQ">Flood at Jess' house</a></li><li><a href="https://www.catan.com/">Settlers of Catan</a></li><li><a href="https://en.wikipedia.org/wiki/Bardcore">Bardcore</a> + (<a href="https://open.spotify.com/playlist/65OFX15A9FGfihlhBJ3dnu">Spotify playlist</a>)</li><li><a href="https://jasonmccreary.me/articles/programming-development-stages/">Development Stages</a></li><li><a href="https://laravelshift.com/upgrade-laravel-8-to-laravel-9">Laravel 9.x Shift</a></li><li>Shift in the <a href="https://laravel.com/docs/9.x/upgrade#estimated-upgrade-time-10-minutes">Laravel Docs</a></li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.offerzen.com/community/laravel-origins-documentary">Laravel Origins Documentary</a></li><li><a href="https://youtu.be/ePuYUCnuOvQ">Flood at Jess' house</a></li><li><a href="https://www.catan.com/">Settlers of Catan</a></li><li><a href="https://en.wikipedia.org/wiki/Bardcore">Bardcore</a> + (<a href="https://open.spotify.com/playlist/65OFX15A9FGfihlhBJ3dnu">Spotify playlist</a>)</li><li><a href="https://jasonmccreary.me/articles/programming-development-stages/">Development Stages</a></li><li><a href="https://laravelshift.com/upgrade-laravel-8-to-laravel-9">Laravel 9.x Shift</a></li><li>Shift in the <a href="https://laravel.com/docs/9.x/upgrade#estimated-upgrade-time-10-minutes">Laravel Docs</a></li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 08 Mar 2022 09:00:00 -0500</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/049-48-reviewing-the-laravel-9-x-shift-and-new-testing-layer.mp3" length="20074433" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1252</itunes:duration>
+      <itunes:summary>In this episode, JMac and Jess round out this miniseries by reviewing the Laravel 9.x Shift and recent updates to the new testing layer.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac and Jess round out this miniseries by reviewing the Laravel 9.x Shift and recent updates to the new testing layer.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>49: How Shift got started</title>
+      <itunes:episode>49</itunes:episode>
+      <podcast:episode>49</podcast:episode>
+      <itunes:title>49: How Shift got started</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">c5e1622d-577a-4d22-914d-d70820d9932e</guid>
+      <description>
+        <![CDATA[<p>In this episode, JMac kicks off a solo season talking about all things Shift - its origin, its pricing, good decisions, bad decisions, revenue milestones, and its future.</p><p><strong>Show Notes</strong></p><ul><li><a href="https://twitter.com/taylorotwell/status/1509912043905765382">Jess joins the Laravel Team</a></li><li><a href="https://twitter.com/gonedark/status/1573669513828212738">New audio setup</a></li><li><a href="https://adamwathan.me/uses/">Adam Wathan Uses</a></li><li><a href="https://saas.transistor.fm/">Build your SaaS</a></li><li><a href="https://twitter.com/taylorotwell/status/667520395952709632">Tweet asking for tester</a></li><li><a href="https://twitter.com/laravelshift/status/681471144038379523">Tweet launching Shift</a></li><li><a href="https://laravelshift.com/">Laravel Shift</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, JMac kicks off a solo season talking about all things Shift - its origin, its pricing, good decisions, bad decisions, revenue milestones, and its future.</p><p><strong>Show Notes</strong></p><ul><li><a href="https://twitter.com/taylorotwell/status/1509912043905765382">Jess joins the Laravel Team</a></li><li><a href="https://twitter.com/gonedark/status/1573669513828212738">New audio setup</a></li><li><a href="https://adamwathan.me/uses/">Adam Wathan Uses</a></li><li><a href="https://saas.transistor.fm/">Build your SaaS</a></li><li><a href="https://twitter.com/taylorotwell/status/667520395952709632">Tweet asking for tester</a></li><li><a href="https://twitter.com/laravelshift/status/681471144038379523">Tweet launching Shift</a></li><li><a href="https://laravelshift.com/">Laravel Shift</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 04 Oct 2022 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/050-49-how-shift-got-started.mp3" length="19268046" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1203</itunes:duration>
+      <itunes:summary>In this episode, JMac kicks off a solo season talking about all things Shift - its origin, its pricing, good decisions, bad decisions, revenue milestones, and its future.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac kicks off a solo season talking about all things Shift - its origin, its pricing, good decisions, bad decisions, revenue milestones, and its future.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>50: Shift's evolution of pricing</title>
+      <itunes:episode>50</itunes:episode>
+      <podcast:episode>50</podcast:episode>
+      <itunes:title>50: Shift's evolution of pricing</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">eb567a2a-a5d4-41d1-bec3-3d43599d8b87</guid>
+      <description>
+        <![CDATA[<p>In this episode, JMac continues his solo season talking Shift by reviewing its initial pricing, pricing strategy, and price increases over the years.</p><p><strong>Show Notes</strong></p><ul><li><a href="https://www.indiehackers.com/podcast/208-jon-yongfook">Indie Hackers Episode #208</a></li><li><a href="https://hbr.org/2009/09/value-propositions-that-work">Value Propositions That Work</a></li><li><a href="https://fullstackradio.com/36">Full Stack Radio Episode #36</a></li><li><a href="https://blog.laravel.com/updates-to-laravels-versioning-policy">Laravel New Release Schedule</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p>In this episode, JMac continues his solo season talking Shift by reviewing its initial pricing, pricing strategy, and price increases over the years.</p><p><strong>Show Notes</strong></p><ul><li><a href="https://www.indiehackers.com/podcast/208-jon-yongfook">Indie Hackers Episode #208</a></li><li><a href="https://hbr.org/2009/09/value-propositions-that-work">Value Propositions That Work</a></li><li><a href="https://fullstackradio.com/36">Full Stack Radio Episode #36</a></li><li><a href="https://blog.laravel.com/updates-to-laravels-versioning-policy">Laravel New Release Schedule</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 11 Oct 2022 09:14:16 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/051-50-shift-s-evolution-of-pricing.mp3" length="18851312" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1177</itunes:duration>
+      <itunes:summary>In this episode, JMac continues his solo season talking Shift by reviewing its initial pricing, pricing strategy, and price increases over the years.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac continues his solo season talking Shift by reviewing its initial pricing, pricing strategy, and price increases over the years.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>51: Shift's growth rate</title>
+      <itunes:episode>51</itunes:episode>
+      <podcast:episode>51</podcast:episode>
+      <itunes:title>51: Shift's growth rate</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">4dcae548-50bf-43d7-8d45-a455d267a0e3</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laravelshift.com/">Laravel Shift</a></li><li><a href="https://laracasts.com/discuss">Laracasts Forum</a></li><li>Laracon Talk: <a href="https://www.youtube.com/watch?v=rpE3Z62FHaY">Practicing YAGNI</a></li><li><a href="https://laravel-news.com/">Laravel News</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://laravelshift.com/">Laravel Shift</a></li><li><a href="https://laracasts.com/discuss">Laracasts Forum</a></li><li>Laracon Talk: <a href="https://www.youtube.com/watch?v=rpE3Z62FHaY">Practicing YAGNI</a></li><li><a href="https://laravel-news.com/">Laravel News</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 18 Oct 2022 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/052-51-shift-s-growth-rate.mp3" length="19397585" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>1211</itunes:duration>
+      <itunes:summary>In this episode, JMac continues his story of Shift by reviewing Shift's year over year growth rate and some of the strategies that may have helped grow Shift.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac continues his story of Shift by reviewing Shift's year over year growth rate and some of the strategies that may have helped grow Shift.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>52: When Shift got real</title>
+      <itunes:episode>52</itunes:episode>
+      <podcast:episode>52</podcast:episode>
+      <itunes:title>52: When Shift got real</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">55d00afe-811f-49f3-a250-be252253f5da</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="http://www.paulgraham.com/ramenprofitable.html">Ramen Profitable</a></li><li>Laracon Talk: <a href="https://www.youtube.com/watch?v=dccDqpmKVFM">Laravel by the Numbers</a></li><li><a href="https://laravel.com/docs/9.x/releases#support-policy">Laravel Support Policy</a></li><li>Laracon Talk: <a href="https://www.youtube.com/watch?v=bvR9rWSM2bM">Some Shifty Bits</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="http://www.paulgraham.com/ramenprofitable.html">Ramen Profitable</a></li><li>Laracon Talk: <a href="https://www.youtube.com/watch?v=dccDqpmKVFM">Laravel by the Numbers</a></li><li><a href="https://laravel.com/docs/9.x/releases#support-policy">Laravel Support Policy</a></li><li>Laracon Talk: <a href="https://www.youtube.com/watch?v=bvR9rWSM2bM">Some Shifty Bits</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 25 Oct 2022 08:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/053-52-when-shift-got-real.mp3" length="11237760" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>701</itunes:duration>
+      <itunes:summary>In this episode, JMac continues his story of Shift by reflecting on his decision to go "full-time" working on Shift and how he might have waited too long.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac continues his story of Shift by reflecting on his decision to go "full-time" working on Shift and how he might have waited too long.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>53: Things that didn't work</title>
+      <itunes:episode>53</itunes:episode>
+      <podcast:episode>53</podcast:episode>
+      <itunes:title>53: Things that didn't work</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">d0de6936-b47d-4a56-b8c6-20edd87a95f3</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://ma.ttias.be/php6-missing-version-number">PHP 6: The Missing Version Number</a></li><li><a href="https://laracasts.com/">Laracasts</a></li><li><a href="https://laravelshift.com/shifts?category=django">Django Shifts</a></li><li><a href="http://tailwindshift.com/">Tailwind Shifts</a></li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://ma.ttias.be/php6-missing-version-number">PHP 6: The Missing Version Number</a></li><li><a href="https://laracasts.com/">Laracasts</a></li><li><a href="https://laravelshift.com/shifts?category=django">Django Shifts</a></li><li><a href="http://tailwindshift.com/">Tailwind Shifts</a></li><li><a href="https://laravelshift.com/workbench">Shift Workbench</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 01 Nov 2022 09:00:00 -0400</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/054-53-things-that-didn-t-work.mp3" length="14566074" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>909</itunes:duration>
+      <itunes:summary>In this episode, JMac continues his story of Shift by sharing other attempts to generate revenue for Shift that did not work.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac continues his story of Shift by sharing other attempts to generate revenue for Shift that did not work.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>54: Differentiators which led to Shift's success</title>
+      <itunes:episode>54</itunes:episode>
+      <podcast:episode>54</podcast:episode>
+      <itunes:title>54: Differentiators which led to Shift's success</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">02c03647-a515-469e-a0e3-0091ab06cb9a</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process">Minimum Viable Product is a process</a></li><li><a href="http://www.fullstackradio.com/36">Building Laravel Shift</a> on Full Stack Radio</li><li><a href="https://blog.asmartbear.com/slc.html">SLC instead of MVP</a></li><li><a href="https://kk.org/thetechnium/1000-true-fans/">1000 True Fans</a></li><li><a href="https://laravelshift.com/laravel-code-fixer">Laravel Fixer</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.ycombinator.com/library/4Q-a-minimum-viable-product-is-not-a-product-it-s-a-process">Minimum Viable Product is a process</a></li><li><a href="http://www.fullstackradio.com/36">Building Laravel Shift</a> on Full Stack Radio</li><li><a href="https://blog.asmartbear.com/slc.html">SLC instead of MVP</a></li><li><a href="https://kk.org/thetechnium/1000-true-fans/">1000 True Fans</a></li><li><a href="https://laravelshift.com/laravel-code-fixer">Laravel Fixer</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 08 Nov 2022 09:24:14 -0500</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/055-54-differentiators-which-led-to-shift-s-success.mp3" length="14903234" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>930</itunes:duration>
+      <itunes:summary>In this episode, JMac continues his story of Shift by sharing two key differentiators which led to Shift's success.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac continues his story of Shift by sharing two key differentiators which led to Shift's success.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>55: What I do with Shift's revenue</title>
+      <itunes:episode>55</itunes:episode>
+      <podcast:episode>55</podcast:episode>
+      <itunes:title>55: What I do with Shift's revenue</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">0d7a3a17-8615-4dde-86f7-e7fe9bb3e5ab</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://jasonmccreary.me/articles/grinding-to-million-dollar-revenue-saas/">Grinding to $1,000,000 in revenue</a></li><li>Tweet: <a href="https://twitter.com/gonedark/status/1576650030944903168?s=20&amp;t=jQJbD_mluf7akk3zeD55Qg">20k MRR Milestone</a></li><li><a href="https://moneywise.com/managing-money/debt/heres-how-warren-buffett-lives-frugally">Warren Buffet lives frugally</a></li><li><a href="https://www.thebalancemoney.com/is-your-emergency-fund-too-big-4142617">Saving an emergency fund</a></li><li><a href="https://www.bankrate.com/investing/best-index-funds/#best-invest">Most popular Index Funds</a></li><li><a href="https://www.investopedia.com/best-dividend-stocks-4774650">Dividend paying stocks</a></li><li><a href="https://treasurydirect.gov/savings-bonds/i-bonds/i-bonds-interest-rates/">Series I Bonds</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://jasonmccreary.me/articles/grinding-to-million-dollar-revenue-saas/">Grinding to $1,000,000 in revenue</a></li><li>Tweet: <a href="https://twitter.com/gonedark/status/1576650030944903168?s=20&amp;t=jQJbD_mluf7akk3zeD55Qg">20k MRR Milestone</a></li><li><a href="https://moneywise.com/managing-money/debt/heres-how-warren-buffett-lives-frugally">Warren Buffet lives frugally</a></li><li><a href="https://www.thebalancemoney.com/is-your-emergency-fund-too-big-4142617">Saving an emergency fund</a></li><li><a href="https://www.bankrate.com/investing/best-index-funds/#best-invest">Most popular Index Funds</a></li><li><a href="https://www.investopedia.com/best-dividend-stocks-4774650">Dividend paying stocks</a></li><li><a href="https://treasurydirect.gov/savings-bonds/i-bonds/i-bonds-interest-rates/">Series I Bonds</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 15 Nov 2022 08:53:04 -0500</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/056-55-what-i-do-with-shift-s-revenue.mp3" length="11297476" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>705</itunes:duration>
+      <itunes:summary>In this episode, JMac continues his story of Shift by discussing Shift's revenue and his personal finance strategies.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac continues his story of Shift by discussing Shift's revenue and his personal finance strategies.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+    <item>
+      <title>56: The future of Shift</title>
+      <itunes:episode>56</itunes:episode>
+      <podcast:episode>56</podcast:episode>
+      <itunes:title>56: The future of Shift</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">e9663e65-0040-4a00-b33b-dfcfa5c13d26</guid>
+      <description>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.youtube.com/@thejasonmccreary/">JMac's Live Streams</a></li><li><a href="https://laracasts.com/series">Laracasts CreatorSeries</a></li><li><a href="https://www.youtube.com/watch?v=127ng7botO4">Laravel Origins: A PHP Documentary</a></li><li><a href="https://twitter.com/gonedark">JMac's Twitter Profile</a></li></ul>]]>
+      </description>
+      <content:encoded>
+        <![CDATA[<p><strong>Show Notes</strong></p><ul><li><a href="https://www.youtube.com/@thejasonmccreary/">JMac's Live Streams</a></li><li><a href="https://laracasts.com/series">Laracasts CreatorSeries</a></li><li><a href="https://www.youtube.com/watch?v=127ng7botO4">Laravel Origins: A PHP Documentary</a></li><li><a href="https://twitter.com/gonedark">JMac's Twitter Profile</a></li></ul>]]>
+      </content:encoded>
+      <pubDate>Tue, 22 Nov 2022 10:48:08 -0500</pubDate>
+      <author>JMac &amp; Jess</author>
+      <enclosure url="https://audio.basecodefieldguide.com/057-56-the-future-of-shift.mp3" length="9246948" type="audio/mpeg"/>
+      <itunes:author>JMac &amp; Jess</itunes:author>
+      <itunes:duration>577</itunes:duration>
+      <itunes:summary>In this episode, JMac finishes his story of Shift by discussing Shift's future and answering a few listener questions.</itunes:summary>
+      <itunes:subtitle>In this episode, JMac finishes his story of Shift by discussing Shift's future and answering a few listener questions.</itunes:subtitle>
+      <itunes:keywords>programming,software engineering,developer,development practices,code,coding</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+    </item>
+  </channel>
+</rss>

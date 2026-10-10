@@ -5,7 +5,7 @@ title: Episode 2 - Dead Code
 date: 2019-05-29 12:00:00
 description: In this episode, JMac and Jess discuss keeping your code fresh by removing dead code which will rot your codebase.
 ---
-<iframe src="https://share.transistor.fm/e/aaa1e173" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/003-2-don-t-live-with-dead-code.mp3" title="Don't live with dead code!" episode="2" duration="1880"><audio controls preload="none" src="https://audio.basecodefieldguide.com/003-2-don-t-live-with-dead-code.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss keeping your code fresh by removing dead code. While it might seem innocuous, dead code relays apathy to readers. Over time, dead code will rot a codebase.
 

@@ -21,7 +21,7 @@
 
         <link rel="home" href="{{ $page->baseUrl }}">
         <link rel="icon" href="/favicon.ico">
-        <link type="application/rss+xml" rel="alternate" title="The BaseCode Podcast" href="https://feeds.transistor.fm/basecode-podcast"/>
+        <link type="application/rss+xml" rel="alternate" title="The BaseCode Podcast" href="https://basecodefieldguide.com/podcast/feed.xml"/>
 
         @stack('meta')
 

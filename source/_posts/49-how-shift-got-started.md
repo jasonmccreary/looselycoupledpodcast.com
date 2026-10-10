@@ -5,7 +5,7 @@ title: Episode 49 - How Shift got started
 date: 2022-10-04 8:00:00
 description: In this episode, JMac kicks off a solo season talking about all things Shift - its origin, its pricing, good decisions, bad decisions, revenue milestones, and its future.
 ---
-<iframe src="https://share.transistor.fm/e/aedbaea9" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/050-49-how-shift-got-started.mp3" title="How Shift got started" episode="49" duration="1203"><audio controls preload="none" src="https://audio.basecodefieldguide.com/050-49-how-shift-got-started.mp3"></audio></podcast-player>
 
 In this episode, JMac kicks off a solo season talking about all things Shift - its origin, its pricing, good decisions, bad decisions, revenue milestones, and its future.
 

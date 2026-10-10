@@ -5,7 +5,7 @@ title: Episode 30 - Laravel 8 Streamlines
 date: 2020-09-15 8:00:00
 description: In this episode, JMac and Jess finish the mini-series by reviewing some of the new features in Laravel 8 which help you write less complex, more readable code.
 ---
-<iframe src="https://share.transistor.fm/e/6643e585" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/031-30-laravel-8-streamlines.mp3" title="Laravel 8 Streamlines" episode="30" duration="1862"><audio controls preload="none" src="https://audio.basecodefieldguide.com/031-30-laravel-8-streamlines.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess finish the mini-series on streamlining code within your Laravel applications by reviewing some of the new features in Laravel 8 which help you write less complex, more readable code.
 

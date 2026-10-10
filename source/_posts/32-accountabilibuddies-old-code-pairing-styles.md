@@ -5,7 +5,7 @@ title: Episode 32 - Accountabilibuddies, old code, and pairing styles
 date: 2021-03-09 8:00:00
 description: In this episode, JMac and Jess talk about some of their recent pairing sessions, the code they worked on, and how we differ in our programming styles. With a few command aliases and Australianisms to boot.
 ---
-<iframe src="https://share.transistor.fm/e/d734a7e9" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/033-32-accountabilibuddies-old-code-and-pairing-styles.mp3" title="Accountabilibuddies, old code, and pairing styles" episode="32" duration="1959"><audio controls preload="none" src="https://audio.basecodefieldguide.com/033-32-accountabilibuddies-old-code-and-pairing-styles.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess talk about some of their recent pairing sessions, the code they worked on, and how we differ in our programming styles. With a few command aliases and Australianisms to boot.
 

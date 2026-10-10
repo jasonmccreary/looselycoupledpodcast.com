@@ -5,7 +5,7 @@ title: Episode 39 -Open source is not free
 date: 2021-07-20 8:00:00
 description: In this episode, JMac and Jess discuss some of the open source tools used by the Workbench, our gripes, and how to contribute.
 ---
-<iframe src="https://share.transistor.fm/e/92402a84" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/040-39-open-source-is-not-free.mp3" title="Open source is not free" episode="39" duration="1314"><audio controls preload="none" src="https://audio.basecodefieldguide.com/040-39-open-source-is-not-free.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss some of the open source tools used by the Workbench, our gripes, and how to contribute.
 

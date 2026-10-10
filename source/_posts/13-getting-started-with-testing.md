@@ -5,7 +5,7 @@ title: Episode 13 - Getting started with testing
 date: 2019-10-22 8:00:00
 description: In this episode, JMac and Jess discuss how to get started testing by selling your on testing and where to write your first test.
 ---
-<iframe src="https://share.transistor.fm/e/f9706dad" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/014-13-getting-started-with-testing.mp3" title="Getting started with testing" episode="13" duration="1398"><audio controls preload="none" src="https://audio.basecodefieldguide.com/014-13-getting-started-with-testing.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss how to get started testing by selling your on testing and where to write your first test.
 

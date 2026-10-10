@@ -5,7 +5,7 @@ title: Episode 4 - Using Objects
 date: 2019-06-11 9:00:00
 description: In this episode, JMac and Jess discuss how primitive obsession leads to primitive code and how using objects can lead to more readable code.
 ---
-<iframe src="https://share.transistor.fm/e/be6ccdb4" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/005-4-primitive-obsession-leads-to-primitive-code.mp3" title="Primitive obsession leads to primitive code." episode="4" duration="1734"><audio controls preload="none" src="https://audio.basecodefieldguide.com/005-4-primitive-obsession-leads-to-primitive-code.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss how primitive obsession leads to primitive code and how using objects allows you to not only express the domain, but also lend towards practices like encapsulation and immutability. All of which provide less complex, more readable code.
 

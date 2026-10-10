@@ -5,7 +5,7 @@ title: Episode 46 - Bugs and Boundary Cases
 date: 2022-02-22 8:00:00
 description: In this episode, JMac and Jess discuss how using the new testing layer revealed so many bugs and boundary cases within the core Shift codebase.
 ---
-<iframe src="https://share.transistor.fm/e/5aac3a86" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/047-46-bugs-and-boundary-cases.mp3" title="Bugs and Boundary Cases" episode="46" duration="1671"><audio controls preload="none" src="https://audio.basecodefieldguide.com/047-46-bugs-and-boundary-cases.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss how using the new testing layer revealed so many bugs and boundary cases within the core Shift codebase.
 

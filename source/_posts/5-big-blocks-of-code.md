@@ -5,7 +5,7 @@ title: Episode 5 - Big Blocks
 date: 2019-06-18 9:00:00
 description: In this episode, JMac and Jess discuss how to break up long blocks of code by reviewing the 3 step process outlined in BaseCode.
 ---
-<iframe src="https://share.transistor.fm/e/8628368d" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/006-5-breaking-up-big-blocks-of-code.mp3" title="Breaking up big blocks of code." episode="5" duration="1699"><audio controls preload="none" src="https://audio.basecodefieldguide.com/006-5-breaking-up-big-blocks-of-code.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss how to break up long blocks of code by reviewing the 3 step process outlined in the _Big Blocks_ practice from [BaseCode](https://basecodefieldguide.com): _Recognize_, _Regroup_, and _Refactor_.
 

@@ -5,7 +5,7 @@ title: Episode 48 - Reviewing the Laravel 9.x Shift and new testing layer
 date: 2022-03-08 8:00:00
 description: In this episode, JMac and Jess round out this miniseries by reviewing the Laravel 9.x Shift and recent updates to the new testing layer.
 ---
-<iframe src="https://share.transistor.fm/e/0584fa92" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/049-48-reviewing-the-laravel-9-x-shift-and-new-testing-layer.mp3" title="Reviewing the Laravel 9.x Shift and new testing layer" episode="48" duration="1252"><audio controls preload="none" src="https://audio.basecodefieldguide.com/049-48-reviewing-the-laravel-9-x-shift-and-new-testing-layer.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess round out this miniseries by reviewing the Laravel 9.x Shift and recent updates to the new testing layer.
 

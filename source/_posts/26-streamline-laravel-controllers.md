@@ -5,7 +5,7 @@ title: Episode 26 - Streamline your controllers
 date: 2020-08-18 8:00:00
 description: In this episode, JMac and Jess discuss generating ebooks and 3 ways to tidy up and streamline controllers in your Laravel applications.
 ---
-<iframe src="https://share.transistor.fm/e/c96b9309" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/027-26-streamline-your-controllers.mp3" title="Streamline your controllers" episode="26" duration="1550"><audio controls preload="none" src="https://audio.basecodefieldguide.com/027-26-streamline-your-controllers.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss generating ebooks and 3 ways to tidy up and streamline controllers in your Laravel applications
 

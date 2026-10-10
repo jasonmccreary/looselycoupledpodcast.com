@@ -5,7 +5,7 @@ title: Episode 9 - Rule of Three
 date: 2019-07-16 8:00:00
 description: In this episode, JMac and Jess discuss the billion dollar mistake of null and share practices for combating null as well as other clumsy return values.
 ---
-<iframe src="https://share.transistor.fm/e/0ba4c063" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/010-9-defer-code-until-necessary.mp3" title="Defer code until necessary..." episode="9" duration="1451"><audio controls preload="none" src="https://audio.basecodefieldguide.com/010-9-defer-code-until-necessary.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss the _Rule of Three_ to help combat the need to abstract away even the tiniest bit of duplication in our code and instead gain more knowledge and to allow the design to emerge.
 

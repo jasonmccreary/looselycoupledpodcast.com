@@ -5,7 +5,7 @@ title: Episode 20 - Our hardest technical challenges
 date: 2020-03-31 8:00:00
 description: In this episode, JMac and Jess talk about the hardest technical challenges we have faced when building our products.
 ---
-<iframe src="https://share.transistor.fm/e/5266fc3b" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/021-20-our-hardest-technical-challenges.mp3" title="Our hardest technical challenges" episode="20" duration="1567"><audio controls preload="none" src="https://audio.basecodefieldguide.com/021-20-our-hardest-technical-challenges.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess talk about the hardest technical challenges we have faced when building our products.
 

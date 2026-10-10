@@ -5,7 +5,7 @@ title: Episode 47 - Tradeoffs of the new testing layer
 date: 2022-03-01 8:00:00
 description: In this episode, JMac and Jess discuss some of the tradeoffs we made to adopt the new testing layer for Shift.
 ---
-<iframe src="https://share.transistor.fm/e/a4aedb18" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/048-47-tradeoffs-of-the-new-testing-layer.mp3" title="Tradeoffs of the new testing layer" episode="47" duration="1284"><audio controls preload="none" src="https://audio.basecodefieldguide.com/048-47-tradeoffs-of-the-new-testing-layer.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss some of the tradeoffs we made to adopt the new testing layer for Shift.
 

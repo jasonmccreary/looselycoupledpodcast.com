@@ -5,7 +5,7 @@ title: Episode 12 - Just write tests
 date: 2019-10-15 8:00:00
 description: In this episode, JMac and Jess discuss the different types of tests, when to use them, and ultimately what matters most is writing tests.
 ---
-<iframe src="https://share.transistor.fm/e/cd694ef6" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/013-12-who-cares-just-write-tests.mp3" title="Who cares, just write tests!" episode="12" duration="1707"><audio controls preload="none" src="https://audio.basecodefieldguide.com/013-12-who-cares-just-write-tests.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss the different types of tests, when to use them, and ultimately what matters most is _writing tests_.
 

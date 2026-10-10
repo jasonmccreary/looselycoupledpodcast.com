@@ -5,7 +5,7 @@ title: Episode 23 - Catch up, level up
 date: 2020-07-28 8:00:00
 description: In this episode, JMac and Jess ease into a new mini-series by catching up, discussing how developers level-up, and topics for next episodes.
 ---
-<iframe src="https://share.transistor.fm/e/ee73ee36" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/024-23-catch-up-level-up.mp3" title="Catch up, level up" episode="23" duration="1252"><audio controls preload="none" src="https://audio.basecodefieldguide.com/024-23-catch-up-level-up.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess ease into a new mini-series by catching up, discussing how developers level-up, and topics for next episodes.
 

@@ -5,7 +5,7 @@ title: Episode 21 - Marketing, Support, and Pricing
 date: 2020-04-07 8:00:00
 description: In this episode, JMac and Jess talk about the marketing, support, and pricing behind our products.
 ---
-<iframe src="https://share.transistor.fm/e/ea8a319e" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/022-21-marketing-support-and-pricing.mp3" title="Marketing, support, and pricing" episode="21" duration="1988"><audio controls preload="none" src="https://audio.basecodefieldguide.com/022-21-marketing-support-and-pricing.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess talk about the marketing, support, and pricing behind our products.
 

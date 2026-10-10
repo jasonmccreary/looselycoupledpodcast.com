@@ -5,7 +5,7 @@ title: Episode 53 - Things that did not work
 date: 2022-11-01 8:00:00
 description: In this episode, JMac continues his story of Shift by sharing other attempts to generate revenue for Shift that did not work.
 ---
-<iframe src="https://share.transistor.fm/e/169604e7" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/054-53-things-that-didn-t-work.mp3" title="Things that didn't work" episode="53" duration="909"><audio controls preload="none" src="https://audio.basecodefieldguide.com/054-53-things-that-didn-t-work.mp3"></audio></podcast-player>
 
 In this episode, JMac continues his story of Shift by sharing other attempts to generate revenue for Shift that did not work.
 

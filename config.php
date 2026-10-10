@@ -46,6 +46,6 @@ return [
             : $cleaned;
     },
     'isActive' => function ($page, $path) {
-        return ends_with(trimPath($page->getPath()), trimPath($path));
+        return \Illuminate\Support\Str::endsWith(trimPath($page->getPath()), trimPath($path));
     },
 ];

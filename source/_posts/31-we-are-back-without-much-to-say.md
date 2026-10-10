@@ -5,7 +5,7 @@ title: Episode 31 - We're back, without too much to say
 date: 2021-03-02 8:00:00
 description: In this episode, JMac and Jess start up a new mini-series without too much direction. We catch up on life and side projects, and finish things off with some quick ideas on an architectural problem.
 ---
-<iframe src="https://share.transistor.fm/e/2bb0601a" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/032-31-we-re-back-without-much-to-say.mp3" title="We're back, without much to say" episode="31" duration="1269"><audio controls preload="none" src="https://audio.basecodefieldguide.com/032-31-we-re-back-without-much-to-say.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess start up a new mini-series without too much direction. We catch up on life and side projects, and finish things off with some quick ideas on an architectural problem.
 

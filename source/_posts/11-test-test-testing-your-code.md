@@ -5,7 +5,7 @@ title: Episode 11 - Test, Test, Testing
 date: 2019-10-08 8:00:00
 description: In this episode of the BaseCode podcast, JMac and Jess start a new 6 episode mini-series about testing.
 ---
-<iframe src="https://share.transistor.fm/e/3fdcd14d" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/012-11-test-test-testing-1-2-3.mp3" title="Test, test, testing… 1, 2, 3…" episode="11" duration="1359"><audio controls preload="none" src="https://audio.basecodefieldguide.com/012-11-test-test-testing-1-2-3.mp3"></audio></podcast-player>
 
 In this episode of the BaseCode podcast, JMac and Jess start a new 6 episode mini-series about testing.
 

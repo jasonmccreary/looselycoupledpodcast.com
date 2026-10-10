@@ -5,7 +5,7 @@ title: Episode 50 - Shift's evolution of pricing
 date: 2022-10-11 8:00:00
 description: In this episode, JMac continues his solo season talking Shift by reviewing its initial pricing, pricing strategy, and price increases over the years.
 ---
-<iframe src="https://share.transistor.fm/e/8ebb84b9" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/051-50-shift-s-evolution-of-pricing.mp3" title="Shift's evolution of pricing" episode="50" duration="1177"><audio controls preload="none" src="https://audio.basecodefieldguide.com/051-50-shift-s-evolution-of-pricing.mp3"></audio></podcast-player>
 
 In this episode, JMac continues his solo season talking Shift by reviewing its initial pricing, pricing strategy, and price increases over the years.
 

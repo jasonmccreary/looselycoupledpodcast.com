@@ -5,7 +5,7 @@ title: Episode 24 - Demystifying Laravel's Container
 date: 2020-08-04 8:00:00
 description: In this episode, JMac and Jess discuss the Laravel Service Container with common mistakes, a few suggestions, and some streamlines.
 ---
-<iframe src="https://share.transistor.fm/e/3672e931" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/025-24-demystifying-laravel-s-container.mp3" title="Demystifying Laravel's Container" episode="24" duration="1556"><audio controls preload="none" src="https://audio.basecodefieldguide.com/025-24-demystifying-laravel-s-container.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss the Laravel Service Container with common mistakes, a few suggestions, and some streamlines.
 

@@ -5,7 +5,7 @@ title: Episode 44 - Testing should be frictionless
 date: 2022-02-08 8:00:00
 description: In this episode, JMac and Jess discussion the motivation behind refactoring the testing layer for Shift.
 ---
-<iframe src="https://share.transistor.fm/e/7ee31b6f" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/045-44-testing-should-be-frictionless.mp3" title="Testing should be frictionless" episode="44" duration="1358"><audio controls preload="none" src="https://audio.basecodefieldguide.com/045-44-testing-should-be-frictionless.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discussion the motivation behind refactoring the testing layer for Shift.
 

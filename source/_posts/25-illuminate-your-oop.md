@@ -5,7 +5,7 @@ title: Episode 25 - Illuminate your OOP
 date: 2020-08-11 8:00:00
 description: In this episode, JMac and Jess discuss some traditional object oriented programming principles which may or may not have a place within Laravel.
 ---
-<iframe src="https://share.transistor.fm/e/ad7fae10" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/026-25-illuminate-your-oop.mp3" title="Illuminate your OOP" episode="25" duration="1745"><audio controls preload="none" src="https://audio.basecodefieldguide.com/026-25-illuminate-your-oop.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss some traditional object oriented programming practices which may or may not have a place within Laravel.
 

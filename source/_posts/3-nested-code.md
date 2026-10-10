@@ -5,7 +5,7 @@ title: Episode 3 - Nested Code
 date: 2019-06-04 9:00:00
 description: In this episode, JMac and Jess discuss practices for flattening nested code to help readers see the code's primary action.
 ---
-<iframe src="https://share.transistor.fm/e/e4114e47" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/004-3-exposing-the-code-s-primary-action.mp3" title="Exposing the code's primary action…" episode="3" duration="1861"><audio controls preload="none" src="https://audio.basecodefieldguide.com/004-3-exposing-the-code-s-primary-action.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss practices for flattening nested code. Since logic is the basis of all programs, most code contains branches and loops which affect readability. By focusing on these blocks of nested code we can dramatically reduce the complexity, and improve the readability of our code.
 

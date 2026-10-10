@@ -5,7 +5,7 @@ title: Episode 40 - Pricing is a personal choice
 date: 2021-07-27 8:00:00
 description: In this episode, JMac and Jess talk about launching the Workbench desktop app with a focus on pricing, discounts, and value.
 ---
-<iframe src="https://share.transistor.fm/e/126fa4bf" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/041-40-pricing-is-a-personal-choice.mp3" title="Pricing is a personal choice" episode="40" duration="1530"><audio controls preload="none" src="https://audio.basecodefieldguide.com/041-40-pricing-is-a-personal-choice.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess talk about launching the Workbench desktop app with a focus on pricing, discounts, and value.
 

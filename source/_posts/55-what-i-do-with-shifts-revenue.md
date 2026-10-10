@@ -5,7 +5,7 @@ title: Episode 55 - What I do with Shift's revenue
 date: 2022-11-15 9:00:00
 description: In this episode, JMac continues his story of Shift by discussing Shift's revenue and his personal finance strategies.
 ---
-<iframe src="https://share.transistor.fm/e/26dc7a51" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/056-55-what-i-do-with-shift-s-revenue.mp3" title="What I do with Shift's revenue" episode="55" duration="705"><audio controls preload="none" src="https://audio.basecodefieldguide.com/056-55-what-i-do-with-shift-s-revenue.mp3"></audio></podcast-player>
 
 In this episode, JMac continues his story of Shift by discussing Shift's revenue and his personal finance strategies.
 

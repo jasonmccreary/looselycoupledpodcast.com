@@ -5,7 +5,7 @@ title: Episode 41 - The little things no one notices
 date: 2021-08-02 8:00:00
 description: In this episode, JMac and Jess discuss the little features we built into the Workbench desktop app like onboarding screens, keyboard shortcuts, and Editor Mode.
 ---
-<iframe src="https://share.transistor.fm/e/e80d36cb" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/042-41-the-little-things-no-one-notices.mp3" title="The little things no one notices" episode="41" duration="1168"><audio controls preload="none" src="https://audio.basecodefieldguide.com/042-41-the-little-things-no-one-notices.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss the little features we built into the Workbench desktop app like onboarding screens, keyboard shortcuts, and Editor Mode.
 

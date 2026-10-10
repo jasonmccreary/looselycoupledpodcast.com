@@ -5,7 +5,7 @@ title: Episode 38 - Building the Electron app
 date: 2021-07-13 8:00:00
 description: In this episode, JMac and Jess go behind the screens on how we build the Shift Workbench desktop app using Electron.
 ---
-<iframe src="https://share.transistor.fm/e/a4d509f2" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/039-38-building-the-electron-app.mp3" title="Building the Electron app" episode="38" duration="1395"><audio controls preload="none" src="https://audio.basecodefieldguide.com/039-38-building-the-electron-app.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess go behind the screens on how we build the Shift Workbench desktop app using Electron.
 

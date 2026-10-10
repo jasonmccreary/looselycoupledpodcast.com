@@ -5,7 +5,7 @@ title: Episode 19 - How we work
 date: 2020-03-24 8:00:00
 description: In this episode, JMac and Jess talk about how we structure our days and decide what to work on next.
 ---
-<iframe src="https://share.transistor.fm/e/3b10170f" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/020-19-how-we-work.mp3" title="How we work" episode="19" duration="1254"><audio controls preload="none" src="https://audio.basecodefieldguide.com/020-19-how-we-work.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess talk about how we structure our days and decide what to work on next.
 

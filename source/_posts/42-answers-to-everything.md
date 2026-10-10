@@ -5,7 +5,7 @@ title: Episode 42 - The answers to everything
 date: 2021-08-09 8:00:00
 description: In this episode, JMac and Jess round out the mini-series on building the Workbench desktop app by answering questions about our development, deployment, and publishing processes.
 ---
-<iframe src="https://share.transistor.fm/e/ab352c1c" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/043-42-the-answers-to-everything.mp3" title="The answers to everything" episode="42" duration="1461"><audio controls preload="none" src="https://audio.basecodefieldguide.com/043-42-the-answers-to-everything.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess round out the mini-series on building the Workbench desktop app by answering questions about our development, deployment, and publishing processes.
 

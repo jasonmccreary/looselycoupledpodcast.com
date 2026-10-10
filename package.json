@@ -1,9 +1,9 @@
 {
     "private": true,
     "scripts": {
-        "local": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --env=local --config=node_modules/laravel-mix/setup/webpack.config.js",
-        "staging": "cross-env NODE_ENV=staging node_modules/webpack/bin/webpack.js --progress --hide-modules --env=staging --config=node_modules/laravel-mix/setup/webpack.config.js",
-        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --hide-modules --env=production --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "local": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --env=local --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "staging": "cross-env NODE_ENV=staging node_modules/webpack/bin/webpack.js --progress --env=staging --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --progress --env=production --config=node_modules/laravel-mix/setup/webpack.config.js",
         "dev": "npm run local",
         "watch": "npm run local -- --watch"
     },
@@ -14,13 +14,15 @@
         "extra-watch-webpack-plugin": "^1.0.3",
         "hasbin": "^1.2.3",
         "highlight.js": "^9.18.1",
-        "laravel-mix": "^5.0.0",
-        "laravel-mix-purgecss": "^5.0.0",
+        "laravel-mix": "^6.0.49",
+        "laravel-mix-purgecss": "^6.0.0",
         "node-cmd": "^3.0.0",
+        "postcss": "^8.5.29",
         "sass": "^1.26.3",
-        "sass-loader": "^7.3.1",
+        "sass-loader": "^12.6.0",
         "tailwindcss": "^1.2.0",
         "vue-template-compiler": "^2.6.11",
+        "webpack": "^5.89.0",
         "yargs": "^4.6.0"
     }
 }

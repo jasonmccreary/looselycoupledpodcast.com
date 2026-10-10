@@ -5,7 +5,7 @@ title: Episode 8 - Reasonable Returns
 date: 2019-07-09 9:00:00
 description: In this episode, JMac and Jess discuss the billion dollar mistake of null and share practices for combating null as well as other clumsy return values.
 ---
-<iframe src="https://share.transistor.fm/e/d7cc5177" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/009-8-your-code-should-provide-reasonable-returns.mp3" title="Your code should provide reasonable returns" episode="8" duration="1365"><audio controls preload="none" src="https://audio.basecodefieldguide.com/009-8-your-code-should-provide-reasonable-returns.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss the billion dollar mistake of null and share practices for combating null as well as other clumsy return values to make the code less complex and more readable.
 

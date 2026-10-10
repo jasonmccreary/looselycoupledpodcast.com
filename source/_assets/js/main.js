@@ -1,3 +1,4 @@
+import './podcast-player';
 import hljs from 'highlight.js/lib/highlight';
 
 // Syntax highlighting

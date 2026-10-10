@@ -5,7 +5,7 @@ title: Episode 54 - Differentiators which led to Shift's success
 date: 2022-11-08 9:00:00
 description: In this episode, JMac continues his story of Shift by sharing two key differentiators which led to Shift's success.
 ---
-<iframe src="https://share.transistor.fm/e/dcd3b0ce" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/055-54-differentiators-which-led-to-shift-s-success.mp3" title="Differentiators which led to Shift's success" episode="54" duration="930"><audio controls preload="none" src="https://audio.basecodefieldguide.com/055-54-differentiators-which-led-to-shift-s-success.mp3"></audio></podcast-player>
 
 In this episode, JMac continues his story of Shift by sharing two key differentiators which led to Shift's success.
 

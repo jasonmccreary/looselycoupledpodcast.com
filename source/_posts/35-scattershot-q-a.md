@@ -5,7 +5,7 @@ title: Episode 35 - Scattershot Q&A
 date: 2021-03-30 8:00:00
 description: In this episode, JMac and Jess answer several questions from the audience to discuss a broad range of topics from using Shifts, testing, security, and time travel.
 ---
-<iframe src="https://share.transistor.fm/e/cf499ade" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/036-35-scattershot-q-a.mp3" title="Scattershot Q&amp;A" episode="35" duration="1653"><audio controls preload="none" src="https://audio.basecodefieldguide.com/036-35-scattershot-q-a.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess answer several questions from the audience to discuss a broad range of topics from using Shifts, testing, security, and time travel.
 

@@ -5,7 +5,7 @@ title: Episode 15 - How we write tests
 date: 2019-11-05 8:00:00
 description: In this episode, JMac and Jess discuss in more detail what we do and don't test within our code.
 ---
-<iframe src="https://share.transistor.fm/e/d2ccb32e" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/016-15-how-we-write-tests.mp3" title="How we write tests" episode="15" duration="1551"><audio controls preload="none" src="https://audio.basecodefieldguide.com/016-15-how-we-write-tests.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss in more detail what we do and don't test within our code.
 

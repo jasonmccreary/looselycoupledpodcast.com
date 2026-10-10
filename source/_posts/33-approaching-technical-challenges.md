@@ -5,7 +5,7 @@ title: Episode 33 - Approaching Technical Challenges
 date: 2021-03-16 8:00:00
 description: In this episode, JMac and Jess answer a question from the audience on how we approach technical challenges by discussing our approach to parsing and manipulating the Tailwind configuration file.
 ---
-<iframe src="https://share.transistor.fm/e/caac3337" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/034-33-approaching-technical-challenges.mp3" title="Approaching technical challenges" episode="33" duration="1767"><audio controls preload="none" src="https://audio.basecodefieldguide.com/034-33-approaching-technical-challenges.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess answer a question from the audience on how we approach technical challenges by discussing our approach to parsing and manipulating the Tailwind configuration file.
 

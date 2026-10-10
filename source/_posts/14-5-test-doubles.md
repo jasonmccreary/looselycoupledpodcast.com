@@ -5,7 +5,7 @@ title: Episode 14 - The 5 Test Doubles
 date: 2019-10-29 8:00:00
 description: In this episode, JMac and Jess discuss the 5 different test doubles and how to use them within your tests.
 ---
-<iframe src="https://share.transistor.fm/e/7235499d" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/015-14-the-5-test-doubles.mp3" title="The 5 Test Doubles" episode="14" duration="1824"><audio controls preload="none" src="https://audio.basecodefieldguide.com/015-14-the-5-test-doubles.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss the 5 different test doubles and how to use them within your tests.
 

@@ -5,7 +5,7 @@ title: Episode 10 - Symmetry
 date: 2019-07-23 8:00:00
 description: In this final episode of the BaseCode podcast, JMac and Jess discuss the practice of symmetry in code to give it that final touch of readability.
 ---
-<iframe src="https://share.transistor.fm/e/087f6eb9" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/011-10-expressed-the-same-way-everywhere.mp3" title="Expressed the same way everywhere…" episode="10" duration="1621"><audio controls preload="none" src="https://audio.basecodefieldguide.com/011-10-expressed-the-same-way-everywhere.mp3"></audio></podcast-player>
 
 In this final episode of the BaseCode podcast, JMac and Jess discuss the practice of symmetry in code to give it that final touch of readability.
 

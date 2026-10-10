@@ -5,7 +5,7 @@ title: Episode 22 - Challenges when building products
 date: 2020-04-14 8:00:00
 description: In this episode, JMac and Jess wrap-up this mini-series by discussing some of the challenges faced when building our own products.
 ---
-<iframe src="https://share.transistor.fm/e/b45f6425" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/023-22-challenges-when-building-products.mp3" title="Challenges when building products" episode="22" duration="1394"><audio controls preload="none" src="https://audio.basecodefieldguide.com/023-22-challenges-when-building-products.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess wrap-up this mini-series by discussing some of the challenges faced when building our own products.
 

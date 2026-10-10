@@ -5,7 +5,7 @@ title: Episode 27 - Obese models and declarative code
 date: 2020-08-25 8:00:00
 description: In this episode, JMac and Jess discuss how we structure our models, especially when they become fat, and attempt to define declarative versus imperative code.
 ---
-<iframe src="https://share.transistor.fm/e/82a8f88f" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/028-27-obese-models-and-declarative-code.mp3" title="Obese models and declarative code" episode="27" duration="1720"><audio controls preload="none" src="https://audio.basecodefieldguide.com/028-27-obese-models-and-declarative-code.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss how we structure our models, especially when they become fat, and attempt to define declarative versus imperative code.
 

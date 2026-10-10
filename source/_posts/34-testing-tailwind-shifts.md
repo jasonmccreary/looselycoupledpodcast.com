@@ -5,7 +5,7 @@ title: Episode 34 - Testing Tailwind Shifts
 date: 2021-03-23 8:00:00
 description: In this episode, JMac and Jess answer another question from a listener on testing by discussing how we write tests for Shift and testing techniques we use when writing tests for the new Tailwind Shifts.
 ---
-<iframe src="https://share.transistor.fm/e/ae5b546c" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/035-34-testing-tailwind-shifts.mp3" title="Testing Tailwind Shifts" episode="34" duration="1712"><audio controls preload="none" src="https://audio.basecodefieldguide.com/035-34-testing-tailwind-shifts.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess answer another question from a listener on testing by discussing how we write tests for Shift and testing techniques we use when writing tests for the new Tailwind Shifts.
 

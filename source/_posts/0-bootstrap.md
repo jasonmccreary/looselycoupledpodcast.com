@@ -5,7 +5,7 @@ title: Episode 0 - Bootstrap
 date: 2019-05-21 10:00:00
 description: In the bootstrap episode, JMac and Jess talk about how they met and what this project is all about.
 ---
-<iframe src="https://share.transistor.fm/e/89c06821" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/001-the-most-important-thing-when-writing-code.mp3" title="The most important thing when writing code…" duration="1533"><audio controls preload="none" src="https://audio.basecodefieldguide.com/001-the-most-important-thing-when-writing-code.mp3"></audio></podcast-player>
 
 In this _bootstrap_ episode, JMac and Jess talk about how they met and the driving motivation behind this podcast series. They lay the foundation for sharing 10 practices for writing less complex, more readable code.  
 

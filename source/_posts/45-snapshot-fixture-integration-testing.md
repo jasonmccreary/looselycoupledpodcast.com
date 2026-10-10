@@ -5,7 +5,7 @@ title: Episode 45 - Snapshot fixture integration testing
 date: 2022-02-15 8:00:00
 description: In this episode, JMac and Jess describe the new testing strategy we adopted within the Shift codebase to make it more frictionless.
 ---
-<iframe src="https://share.transistor.fm/e/98ce1197" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/046-45-snapshot-fixture-integration-testing.mp3" title="Snapshot fixture integration testing" episode="45" duration="1800"><audio controls preload="none" src="https://audio.basecodefieldguide.com/046-45-snapshot-fixture-integration-testing.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess describe the new testing strategy we adopted within the Shift codebase to make it more frictionless.
 

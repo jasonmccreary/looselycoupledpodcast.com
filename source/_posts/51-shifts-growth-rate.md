@@ -5,7 +5,7 @@ title: Episode 51 - Shift's growth rate
 date: 2022-10-18 8:00:00
 description: In this episode, JMac continues his story of Shift by reviewing Shift's year over year growth rate and some of the strategies that may have helped grow Shift.
 ---
-<iframe src="https://share.transistor.fm/e/edd82456" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/052-51-shift-s-growth-rate.mp3" title="Shift's growth rate" episode="51" duration="1211"><audio controls preload="none" src="https://audio.basecodefieldguide.com/052-51-shift-s-growth-rate.mp3"></audio></podcast-player>
 
 In this episode, JMac continues his story of Shift by reviewing Shift's year over year growth rate and some of the strategies that may have helped grow Shift.
 

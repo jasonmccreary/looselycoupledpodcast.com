@@ -5,7 +5,7 @@ title: Episode 16 - Using your tests
 date: 2019-11-12 8:00:00
 description: In this final episode on testing, JMac and Jess continue the discussion on how we write tests and how we use the tests to maintain the codebase.
 ---
-<iframe src="https://share.transistor.fm/e/f9b1774c" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/017-16-using-your-tests.mp3" title="Using your tests" episode="16" duration="1437"><audio controls preload="none" src="https://audio.basecodefieldguide.com/017-16-using-your-tests.mp3"></audio></podcast-player>
 
 In this final episode on testing, JMac and Jess continue the discussion on how we write tests and how we use the tests to maintain the codebase.
 

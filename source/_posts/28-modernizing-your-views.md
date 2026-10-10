@@ -5,7 +5,7 @@ title: Episode 28 - Modernizing your views
 date: 2020-09-01 8:00:00
 description: In this episode, JMac and Jess discuss ways to modernize your views which make the code less complex and more readable.
 ---
-<iframe src="https://share.transistor.fm/e/664cf8b6" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/029-28-modernizing-your-views.mp3" title="Modernizing your views" episode="28" duration="1437"><audio controls preload="none" src="https://audio.basecodefieldguide.com/029-28-modernizing-your-views.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss ways to modernize your views which make the code less complex and more readable.
 

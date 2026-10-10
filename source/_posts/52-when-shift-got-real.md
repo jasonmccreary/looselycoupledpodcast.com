@@ -6,7 +6,7 @@ date: 2022-10-25 8:00:00
 description: In this episode, JMac continues his story of Shift by reflecting on his decision to go "full-time" working on Shift and how he might have waited too long.
 
 ---
-<iframe src="https://share.transistor.fm/e/a9f289ba" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/053-52-when-shift-got-real.mp3" title="When Shift got real" episode="52" duration="701"><audio controls preload="none" src="https://audio.basecodefieldguide.com/053-52-when-shift-got-real.mp3"></audio></podcast-player>
 
 In this episode, JMac continues his story of Shift by reflecting on his decision to go "full-time" working on Shift and how he might have waited too long.
 

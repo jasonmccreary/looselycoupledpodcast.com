@@ -5,7 +5,7 @@ title: Episode 43 - Old and Shifty Milestones
 date: 2022-02-01 8:00:00
 description: In this episode, JMac and Jess start up a new mini-series on refactoring the testing layer within Shift, but first recap a few of the milestones over the last 6 months.
 ---
-<iframe src="https://share.transistor.fm/e/0c93fed4" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/044-43-old-and-shifty-milestones.mp3" title="Old and Shifty Milestones" episode="43" duration="967"><audio controls preload="none" src="https://audio.basecodefieldguide.com/044-43-old-and-shifty-milestones.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess start up a new mini-series on refactoring the testing layer within Shift, but first recap a few of the milestones over the last 6 months.
 

@@ -5,7 +5,7 @@ title: Episode 18 - Let's talk about stacks
 date: 2020-03-17 8:00:00
 description: In this episode, JMac and Jess talk about the tech stacks which power Gifty Duck and Shift.
 ---
-<iframe src="https://share.transistor.fm/e/11087e87" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/019-18-let-s-talk-about-stacks.mp3" title="Let's talk about stacks" episode="18" duration="1640"><audio controls preload="none" src="https://audio.basecodefieldguide.com/019-18-let-s-talk-about-stacks.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess talk about the tech stacks which power [Gifty Duck](https://giftyduck.com/) and [Shift](https://laravelshift.com).
 

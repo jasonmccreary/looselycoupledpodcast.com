@@ -5,7 +5,7 @@ title: Episode 6 - Naming
 date: 2019-06-25 9:00:00
 description: In this episode, JMac and Jess discuss ways to make naming things easier with some simple rules, guidelines, and tips.
 ---
-<iframe src="https://share.transistor.fm/e/d7c9d154" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/007-6-naming-things-is-easy.mp3" title="Naming things is easy…" episode="6" duration="1788"><audio controls preload="none" src="https://audio.basecodefieldguide.com/007-6-naming-things-is-easy.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss ways to make naming things easier with a simple set of tips sourced from dozens of books, practiced in other languages, and distilled over 20 years of writing code.
 

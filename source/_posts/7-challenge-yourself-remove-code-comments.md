@@ -5,7 +5,7 @@ title: Episode 7 - Removing Comments
 date: 2019-07-02 9:00:00
 description: In this episode, JMac and Jess talk about how the simple practice of removing comments from your code can push you to write more readable code.
 ---
-<iframe src="https://share.transistor.fm/e/ad1c173a" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/008-7-challenge-yourself-to-remove-comments.mp3" title="Challenge yourself to remove comments." episode="7" duration="1198"><audio controls preload="none" src="https://audio.basecodefieldguide.com/008-7-challenge-yourself-to-remove-comments.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess talk about how the simple practice of removing comments from your code can push you to write more readable code and point out some of the nuances of commenting code by sharing some fun programming stories along the way.
 

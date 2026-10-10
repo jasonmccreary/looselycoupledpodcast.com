@@ -5,7 +5,7 @@ title: Episode 29 - Additional Laravel Streamlines
 date: 2020-09-08 8:00:00
 description: In this episode, JMac and Jess discuss some of the additional ways to streamline your Laravel applications.
 ---
-<iframe src="https://share.transistor.fm/e/6a26f771" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/030-29-additional-laravel-streamlines.mp3" title="Additional Laravel Streamlines" episode="29" duration="1363"><audio controls preload="none" src="https://audio.basecodefieldguide.com/030-29-additional-laravel-streamlines.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess discuss some of the additional ways outside of Models, Views, and Controllers to streamline your Laravel applications.
 

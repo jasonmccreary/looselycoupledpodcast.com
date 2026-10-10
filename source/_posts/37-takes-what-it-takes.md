@@ -5,7 +5,7 @@ title: Episode 37 - Takes what it takes
 date: 2021-07-06 8:00:00
 description: In this episode, JMac and Jess continue our mini-series on working together building new projects. This time we talk about building the new Shift Workbench desktop app.
 ---
-<iframe src="https://share.transistor.fm/e/942e4188" width="100%" height="180" frameborder="0" scrolling="no" seamless="true" style="width:100%; height:180px;"></iframe>
+<podcast-player src="https://audio.basecodefieldguide.com/038-37-it-takes-what-it-takes.mp3" title="It takes what it takes" episode="37" duration="1037"><audio controls preload="none" src="https://audio.basecodefieldguide.com/038-37-it-takes-what-it-takes.mp3"></audio></podcast-player>
 
 In this episode, JMac and Jess continue our mini-series on working together building new projects. This time we talk about building the new Shift Workbench desktop app.
 
